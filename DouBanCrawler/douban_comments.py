@@ -4,7 +4,8 @@ This is a simplest script that will take all html content of a url and
 then save them into a text file.
 It has one command line parameter which is --url or -u.
 If no command line parameter is given, it uses its default url wich is:
-'http://www.baidu.com'
+'http://www.baidu.com
+'
 """
 import requests
 import argparse	
@@ -17,7 +18,8 @@ def getHtmlText(url='http://www.baidu.com'):
 		r = requests.get(url, timeout=20)
 		r.raise_for_status()
 		r.encoding = r.apparent_encoding
-		with open('./result.txt','w') as f:
+		with open('./result.txt','a') as f:
+			f.write('\n')			
 			f.write(str(r.text))
 	except:
 		return "Exception encounter!"

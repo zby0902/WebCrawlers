@@ -1,247 +1,4461 @@
 <!DOCTYPE html>
-<html lang="zh-CN">
+<html lang="zh-cmn-Hans" class="">
 <head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="profile" href="http://gmpg.org/xfn/11">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta name="renderer" content="webkit">
+    <meta name="referrer" content="always">
+    <title>【豆瓣高分动画长片】</title>
+    
+    <meta http-equiv="Pragma" content="no-cache">
+    <meta http-equiv="Expires" content="Sun, 6 Mar 2005 01:00:00 GMT">
+    
+  <meta name="mobile-agent" content="format=html5; url=https://m.douban.com/doulist/223781">
 
-<title>Roger的计算机漫漫入门路</title>
-<link rel='dns-prefetch' href='//s2.wp.com' />
-<link rel='dns-prefetch' href='//s1.wp.com' />
-<link rel='dns-prefetch' href='//s0.wp.com' />
-<link rel='dns-prefetch' href='//fonts.googleapis.com' />
-<link rel="alternate" type="application/rss+xml" title="Roger的计算机漫漫入门路 &raquo; Feed" href="https://zbyroger0128.wordpress.com/feed/" />
-<link rel="alternate" type="application/rss+xml" title="Roger的计算机漫漫入门路 &raquo; 评论Feed" href="https://zbyroger0128.wordpress.com/comments/feed/" />
-	<script type="text/javascript">
-		/* <![CDATA[ */
-		function addLoadEvent(func) {
-			var oldonload = window.onload;
-			if (typeof window.onload != 'function') {
-				window.onload = func;
-			} else {
-				window.onload = function () {
-					oldonload();
-					func();
-				}
-			}
-		}
-		/* ]]> */
-	</script>
-			<script type="text/javascript">
-			window._wpemojiSettings = {"baseUrl":"https:\/\/s0.wp.com\/wp-content\/mu-plugins\/wpcom-smileys\/twemoji\/2\/72x72\/","ext":".png","svgUrl":"https:\/\/s0.wp.com\/wp-content\/mu-plugins\/wpcom-smileys\/twemoji\/2\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/s1.wp.com\/wp-includes\/js\/wp-emoji-release.min.js?m=1516999477h&ver=4.9.5"}};
-			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55357,56692,8205,9792,65039],[55357,56692,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
-		</script>
-		<style type="text/css">
-img.wp-smiley,
-img.emoji {
-	display: inline !important;
-	border: none !important;
-	box-shadow: none !important;
-	height: 1em !important;
-	width: 1em !important;
-	margin: 0 .07em !important;
-	vertical-align: -0.1em !important;
-	background: none !important;
-	padding: 0 !important;
+    <script >var _head_start = new Date();</script>
+    <script src="https://img3.doubanio.com/f/shire/72ced6df41d4d158420cebdd254f9562942464e3/js/jquery.min.js"></script>
+    <script src="https://img3.doubanio.com/f/shire/40e5fd47dadd542654d9421d954f5296266c2e25/js/douban.js"></script>
+    <link href="https://img3.doubanio.com/f/shire/bf61b1fa02f564a4a8f809da7c7179b883a56146/css/douban.css" rel="stylesheet" type="text/css">
+    <style type="text/css">
+    
+        
+  * html .status-item .video-player .video-overlay{background:none !important;filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="https://img3.doubanio.com/pics/video_overlay_ie6c.png?1")}.doulist-add-btn{margin-right:0;margin-left:10px}.doulist-item-content{overflow:hidden;zoom:1}.doulist-collect{color:#999}.doulist-filter{float:left}.doulist-filter a span{color:#999}.doulist-filter a:hover span{color:white}.doulist-filter a.active{color:#999}.doulist-filter a.active:hover{background-color:white}.doulist-filter a.active:hover span{color:#999}.doulist-item .minisubmit{color:#999}.doulist-item .minisubmit:hover{color:white;background-color:#999}p.ul{margin-bottom:16px;padding-top:16px;border-bottom:1px solid #f0f0f0}.doulist-item{margin:20px 0}.doulist-item .mod{position:relative;padding:10px;background:#f5f5f5;color:#666;word-wrap:break-word}.doulist-item .hd .pos{position:relative;top:-10px;display:inline-block;padding:0 10px;background:#e3e3e3;color:#a1a1a1;line-height:18px;border-radius:0 0 4px 4px}.doulist-item .bd{padding:20px;background:#fff;overflow:hidden;*zoom:1;box-shadow:0 1px 1px rgba(0,0,0,0.2)}.doulist-item .bd .title+.meta{margin-top:-4px}.doulist-item .bd .doulist-add-btn{float:right}.doulist-item .bd .meta{display:none;margin:6px 0 4px}.doulist-item .bd .meta a:link,.doulist-item .bd .meta a:visited{color:#666}.doulist-item .bd .meta a:hover{color:#fff}.doulist-item .bd .favs{margin-left:10px}.doulist-item .bd .pic{float:right;margin-left:30px}.doulist-item .bd .pic img{max-width:120px}.doulist-item .bd .abstract{overflow:hidden;*zoom:1}.doulist-item .ft{padding:15px 20px 0}.doulist-item .ft .time{display:block;float:right;margin-right:15px;color:#999}.doulist-item .title{margin-bottom:10px;font-size:14px;line-height:1.3;color:#8f8f8f}.doulist-item .source{color:#ccc;margin-bottom:10px}.doulist-item textarea{font-size:13px}.doulist-item .doulist-note .pic{width:120px}.doulist-item .doulist-subject .post{float:left;margin-right:20px;box-shadow:0 0 1px rgba(0,0,0,0.1)}.doulist-item .doulist-subject .title{margin-bottom:6px}.doulist-item .doulist-subject .rating{margin:6px 0 4px 120px}.doulist-item .doulist-subject .abstract{margin-left:120px}.doulist-item .doulist-album .meta{margin-bottom:7px}.doulist-item .doulist-album .album-photo{margin-top:7px;margin-right:-19px;font-size:0}.doulist-item .doulist-album .album-photo a:hover{background-color:transparent}.doulist-item .doulist-album .album-photo a:hover img{opacity:.9;filter:alpha(opacity=90)}.doulist-item .doulist-album .album-photo img{margin-right:16px}.doulist-item .doulist-photo .pic{clear:both;max-height:450px;overflow:hidden;float:none;margin:0;text-align:center}.doulist-item .doulist-photo .pic a:hover{background-color:transparent}.doulist-item .doulist-photo .pic a:hover img{opacity:.9;filter:alpha(opacity=90)}.doulist-item .doulist-photo .pic img{max-width:100%}.doulist-item .doulist-photo .abstract{margin:10px 0 0}.doulist-item .doulist-url-subject-video .block-video{margin:8px auto;width:230px}.doulist-item .doulist-url-subject-video .block-video .description{word-wrap:break-word;color:#555}.doulist-item .doulist-url-subject-video .block-video .title{font-size:14px}.doulist-item .doulist-url-subject-video .video-player{position:relative;left:0;top:0;zoom:1;margin-bottom:2px}.doulist-item .doulist-url-subject-video .video-player img{width:128px;height:96px;padding:16.5px 51px;border:0 none;background:#222}.doulist-item .doulist-url-subject-video .video-player .video-overlay{position:absolute;top:0;left:0;width:230px;height:129px;background:url(https://img3.doubanio.com/f/sns/c90ee0db675c8c7571c3d9ffb020bc97cec658e8/pics/video_overlay1b.png) no-repeat 0 0;cursor:pointer}.doulist-item .doulist-url-subject-video .video-player .video-overlay:hover{background-position:0 -129px}.doulist-item .doulist-url-subject-video .video-player .video-object{display:none}.doulist-item .doulist-url-subject-video .title{margin-bottom:6px}.doulist-item .doulist-url-subject-video .abstract{margin:10px 0 0}.doulist-item .doulist-photo-list{float:right;width:340px;margin-left:20px;letter-spacing:-0.31em;*letter-spacing:normal;word-spacing:-0.43em;font-size:0}.doulist-item .doulist-photo-list a{display:inline-block;*display:inline;zoom:1;vertical-align:top;margin-left:5px}.doulist-item .comment{padding:0;margin:0 0 9px;background:none}.doulist-item .comment span{color:#999}.doulist-item .form-desc p{font-size:14px}.doulist-item .actions{color:#aaa}.doulist-item .actions .btn-action-reply{margin-left:5px}.doulist-item .actions .btn:link{color:#7094b7}.doulist-item .actions .btn:hover{background:#7094b7;color:#fff}.doulist-item-opt{float:right;text-align:right}.doulist-other li{margin-top:10px;border-bottom:1px dashed #CCC}.doulist-item .others{display:none}.doulist-item .comments{position:relative;left:0;top:0;overflow:hidden;*zoom:1}.doulist-item .comments-items{_line-height:0}.doulist-item .comments-items .per-comment{margin:10px 0;color:#666;overflow:hidden;zoom:1;word-wrap:break-word;line-height:1.62}.doulist-item .comments-items .mover{background:#f2f2f2}.doulist-item .comments-items .per-comment em{float:left;width:100%;font-style:normal}.doulist-item .comments .comment-text{width:330px}.doulist-item .comments .add-more-comments,.doulist-item .comment-posted input{display:none}.doulist-item .comment-posted .add-more-comments{display:inline}.doulist-item .comment-posted .bn-flat{display:none}.doulist-item .comments-items .btn-del{float:right;color:#aaa}.doulist-item .comments-items .btn-del:hover{color:#bbb;background:none}.doulist-item .likers{padding:0;margin:6px 0;color:#aaa}.doulist-item .likers em{max-width:300px;float:left;white-space:nowrap;text-overflow:ellipsis;-o-text-overflow:ellipsis;overflow:hidden;zoom:1;font-style:normal;_width:expression((documentElement.clientWidth >300) ? "300px" : "auto" )}.doulist-item .comments .comment-text{padding:4px;height:16px;width:458px;border:1px solid #c9c9c9}.doulist-item .comments .btn-flat input{height:24px;line-height:24px}
+
+  .doulist-interactions { overflow: hidden; *zoom: 1; margin-bottom: 20px; }
+  .doulist-panel { float: right; }
+  .doulist_item p {word-break: break-all;}
+  .bn-cancel { margin-left:1em; }
+  .ul { width:100%; }
+  div.filters { margin-top: 20px; color: #666 }
+  p.ul { margin-top: 3px }
+  p.indent { text-indent: 2em; }
+  .empty-doulist { margin-top: 20px; }
+  .dlistp p{margin-top:4px;border-bottom:1px #ddd dashed;padding-bottom:4px}
+  .text-paragraph { text-indent: 2em; }
+  .aside h2 {margin-top:30px;}
+  .form-desc textarea { display: block; width:98%;height:65px;margin-top:3px; }
+  .doulist-admin { float: left; }
+  .remove-doulist-item-comment { margin-left: 10px;}
+  .doulist-tip { color: #999; }
+  .doulist-tip h2 { margin-top: 0; }
+.minisubmit { vertical-align: baseline; }
+.minisubmit:hover { background: #37a; }
+.sort-tab { margin-top: 20px; color: #999; text-align: right; }
+.sort-tab a:link,
+.sort-tab a:visited { color: #999; }
+.sort-tab a:hover { color: #fff; }
+.doulist-add-subject-btn { display: inline; margin-right: 12px; }
+.lnk-doulist-add-subject {
+    display: inline-block;
+    zoom: 1;
+    padding: 2px 8px 0;
+    line-height: 17px;
+    vertical-align: middle;
+    overflow: hidden;
+    zoom: 1;
+    color: #fff;
+    background: #4DBD4D;
+    border-radius: 2px;
+    border: 1px solid #4DBD4D;
 }
-</style>
-<link rel='stylesheet' id='all-css-0-1' href='https://s1.wp.com/_static/??-eJyFj90KgzAMhV9oXVDYvBp7llqDVhstJuJ8+7UWB/uhuykn4XzNObB6ZaZRcBSgRXm3tHZkWL2ZSDFZh9vHdDbMJ/iNOTsgQ4/itRnUPuXsZpox7MlriQ7Cxmp0SMGWw1bbtCgB50MrwUcWIX89DkXZhXjZZKlxXfsZmVV4yS6kpAvZ/jSimD5V3wO+bRJqYZzEBppf4uvPdAr8UkOjZw0sm8PoutOtuJRFWVTVpeifYQ+nXw==?cssminify=yes' type='text/css' media='all' />
-<link rel='stylesheet' id='dara-fonts-css'  href='https://fonts.googleapis.com/css?family=Source+Sans+Pro%3A300%2C300italic%2C400%2C400italic%2C600%7CYrsa%3A300%2C400%2C700&#038;subset=latin%2Clatin-ext' type='text/css' media='all' />
-<link rel='stylesheet' id='all-css-2-1' href='https://s1.wp.com/_static/??-eJx9jcEOAiEMRH9IbFAT9WD8FpatWAMtoWyIfy/GC8a4t3mZeRlo2XjhilwhLSbHJRArBGQs1Is/cetVNzC49Y4JFfIyweyKA2IPWp8RTcte0s9++Go0B6wKKp5cNJ+rEdbkgGKieFdJ+AvMLToqa2rBKUroMUBfDfiWruliD+fj7mTt3j5eeKNt8Q==?cssminify=yes' type='text/css' media='all' />
-<link rel='stylesheet' id='print-css-3-1' href='https://s2.wp.com/wp-content/mu-plugins/global-print/global-print.css?m=1465851035h&cssminify=yes' type='text/css' media='print' />
-<link rel='stylesheet' id='all-css-4-1' href='https://s1.wp.com/_static/??-eJx9i0EKAjEMRS9kDYUZGRfiWTKltpE0KU0Grz+4EBHF1X8f3oNHD0nFszi0LXTeCokBJieVFcebjsnsAL/1rubhxkgDrOIgKa/9V5kmQg6sRT/PV+Q1t2xQJyisK/JTuLZLnOPpvMxxWu47xX5JvA==?cssminify=yes' type='text/css' media='all' />
-<script type='text/javascript' src='https://s0.wp.com/_static/??-eJyFztEKwjAMBdAfsquTiXsRv6XWOFKXtDbphn69HeiDMBQCgdzDJXZOBtmP5QJiQ517gfx4rybIxv4ChnDITqEh5A/2kRVYF0vxjCOYIpDdUG+16BpXXIqiBCIVraTfLyFPCPNfFkCT8zeTQfC5tJ7o2Hb9Yde3+24bXjRNW9I='></script>
-<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://zbyroger0128.wordpress.com/xmlrpc.php?rsd" />
-<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://s1.wp.com/wp-includes/wlwmanifest.xml" /> 
-<meta name="generator" content="WordPress.com" />
-<link rel="canonical" href="https://zbyroger0128.wordpress.com/" />
-<link rel='shortlink' href='https://wp.me/P9N3Ic-5' />
-<link rel="alternate" type="application/json+oembed" href="https://public-api.wordpress.com/oembed/?format=json&amp;url=https%3A%2F%2Fzbyroger0128.wordpress.com%2F&amp;for=wpcom-auto-discovery" /><link rel="alternate" type="application/xml+oembed" href="https://public-api.wordpress.com/oembed/?format=xml&amp;url=https%3A%2F%2Fzbyroger0128.wordpress.com%2F&amp;for=wpcom-auto-discovery" />
-<!-- Jetpack Open Graph Tags -->
-<meta property="og:type" content="website" />
-<meta property="og:title" content="Roger的计算机漫漫入门路" />
-<meta property="og:url" content="https://zbyroger0128.wordpress.com/" />
-<meta property="og:site_name" content="Roger的计算机漫漫入门路" />
-<meta property="og:image" content="https://zbyroger0128.files.wordpress.com/2018/03/skyline-buildings-new-york-skyscrapers.jpg?w=1200" />
-<meta property="og:image:width" content="1200" />
-<meta property="og:image:height" content="566" />
-<meta property="og:locale" content="zh_CN" />
-<meta name="twitter:site" content="@wordpressdotcom" />
-<meta name="twitter:text:title" content="Home" />
-<meta name="twitter:image:src" content="https://zbyroger0128.files.wordpress.com/2018/03/skyline-buildings-new-york-skyscrapers.jpg?w=640" />
-<meta name="twitter:card" content="summary_large_image" />
-<meta name="twitter:description" content="访问文章了解更多信息。" />
-<meta property="fb:app_id" content="249643311490" />
-<meta property="article:publisher" content="https://www.facebook.com/WordPresscom" />
-<link rel="shortcut icon" type="image/x-icon" href="https://s1.wp.com/i/favicon.ico" sizes="16x16 24x24 32x32 48x48" />
-<link rel="icon" type="image/x-icon" href="https://s1.wp.com/i/favicon.ico" sizes="16x16 24x24 32x32 48x48" />
-<link rel="apple-touch-icon-precomposed" href="https://s2.wp.com/i/webclip.png" />
-<link rel="search" type="application/opensearchdescription+xml" href="https://zbyroger0128.wordpress.com/osd.xml" title="Roger的计算机漫漫入门路" />
-<link rel="search" type="application/opensearchdescription+xml" href="https://s1.wp.com/opensearch.xml" title="WordPress.com" />
-<meta name="application-name" content="Roger的计算机漫漫入门路" /><meta name="msapplication-window" content="width=device-width;height=device-height" /><meta name="msapplication-task" content="name=订阅;action-uri=https://zbyroger0128.wordpress.com/feed/;icon-uri=https://s1.wp.com/i/favicon.ico" /><meta name="msapplication-task" content="name=注册免费博客;action-uri=http://wordpress.com/signup/;icon-uri=https://s1.wp.com/i/favicon.ico" /><meta name="msapplication-task" content="name=WordPress.com 支持;action-uri=http://support.wordpress.com/;icon-uri=https://s1.wp.com/i/favicon.ico" /><meta name="msapplication-task" content="name=WordPress.com 论坛;action-uri=http://forums.wordpress.com/;icon-uri=https://s1.wp.com/i/favicon.ico" /><meta name="description" content="Welcome to your new site! You can edit this page by cli&hellip;" />
-<style type="text/css" id="syntaxhighlighteranchor"></style>
+.lnk-doulist-add-subject:link,
+.lnk-doulist-add-subject:visited {
+    color: #fff;
+}
+.lnk-doulist-add-subject:hover {
+    color: #fff;
+    background: #48BC48;
+    border-color: #28A228;
+}
+.rec-sec { display: inline; }
+
+    </style>
+    
+    
+
+    <script type="text/javascript" src="https://img3.doubanio.com/f/shire/77323ae72a612bba8b65f845491513ff3329b1bb/js/do.js" data-cfg-autoload="false"></script>
+
+    <link rel="stylesheet" href="https://img3.doubanio.com/misc/mixed_static/126b7e8b7efea5ef.css">
+    <script>
+  window.popup = false;
+</script>
+
+    <link rel="shortcut icon" href="https://img3.doubanio.com/favicon.ico" type="image/x-icon">
 </head>
 
-<body class="home page-template-default page page-id-5 mp6 customizer-styles-applied not-multi-author display-header-text comments-closed highlander-enabled highlander-light">
-<div id="page" class="site">
-	<a class="skip-link screen-reader-text" href="#content">Skip to content</a>
-
-	<header id="masthead" class="site-header" role="banner">
-
-		
-				<div class="site-branding">
-										<p class="site-title"><a href="https://zbyroger0128.wordpress.com/" rel="home">Roger的计算机漫漫入门路</a></p>
-			
-					</div><!-- .site-branding -->
-
-		<nav id="site-navigation" class="main-navigation" role="navigation">
-	<button class="menu-toggle" aria-controls="top-menu" aria-expanded="false">选单</button>
-	<div id="top-menu" class="menu"><ul>
-<li class="page_item page-item-5 current_page_item"><a href="https://zbyroger0128.wordpress.com/">Home</a></li>
-<li class="page_item page-item-2"><a href="https://zbyroger0128.wordpress.com/%e5%85%b3%e4%ba%8e/">关于</a></li>
-<li class="page_item page-item-3"><a href="https://zbyroger0128.wordpress.com/%e8%81%94%e7%b3%bb%e4%bf%a1%e6%81%af/">联系信息</a></li>
-<li class="page_item page-item-6"><a href="https://zbyroger0128.wordpress.com/blog/">Blog</a></li>
-</ul></div>
-	</nav>
-
-	</header>
-
-	
-	<div class="hero">
-		<div class="entry-thumbnail">
-			<img width="1180" height="435" src="https://zbyroger0128.files.wordpress.com/2018/03/skyline-buildings-new-york-skyscrapers.jpg?w=1180&amp;h=435&amp;crop=1" class="attachment-dara-page-thumbnail size-dara-page-thumbnail wp-post-image" alt="" srcset="https://zbyroger0128.files.wordpress.com/2018/03/skyline-buildings-new-york-skyscrapers.jpg?w=1180&amp;h=435&amp;crop=1 1180w, https://zbyroger0128.files.wordpress.com/2018/03/skyline-buildings-new-york-skyscrapers.jpg?w=150&amp;h=55&amp;crop=1 150w, https://zbyroger0128.files.wordpress.com/2018/03/skyline-buildings-new-york-skyscrapers.jpg?w=300&amp;h=111&amp;crop=1 300w, https://zbyroger0128.files.wordpress.com/2018/03/skyline-buildings-new-york-skyscrapers.jpg?w=768&amp;h=283&amp;crop=1 768w, https://zbyroger0128.files.wordpress.com/2018/03/skyline-buildings-new-york-skyscrapers.jpg?w=1024&amp;h=378&amp;crop=1 1024w" sizes="(max-width: 1180px) 100vw, 1180px" data-attachment-id="20" data-permalink="https://zbyroger0128.wordpress.com/home/placeholder-image-2/" data-orig-file="https://zbyroger0128.files.wordpress.com/2018/03/skyline-buildings-new-york-skyscrapers.jpg" data-orig-size="1600,754" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;14&quot;,&quot;credit&quot;:&quot;Philipp Henzler&quot;,&quot;camera&quot;:&quot;Canon EOS 550D&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1331252089&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;11&quot;,&quot;iso&quot;:&quot;400&quot;,&quot;shutter_speed&quot;:&quot;0.01&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="Placeholder Image" data-image-description="" data-medium-file="https://zbyroger0128.files.wordpress.com/2018/03/skyline-buildings-new-york-skyscrapers.jpg?w=300" data-large-file="https://zbyroger0128.files.wordpress.com/2018/03/skyline-buildings-new-york-skyscrapers.jpg?w=1024" />		</div>
-	</div><!-- .hero -->
-
-	<div id="content" class="site-content">
-
-	<div id="primary" class="content-area front-page-content-area">
-					
-<article id="post-5" class="post-5 page type-page status-publish has-post-thumbnail hentry with-featured-image">
-	<header class="entry-header">
-		<h1 class="entry-title">Home</h1>	</header>
-		<div class="entry-content">
-			<p>Welcome to your new site!  You can edit this page by clicking on the Edit link.  For more information about customizing your site check out <a href="http://learn.wordpress.com/">http://learn.wordpress.com/</a></p>
-		</div>
-		<footer class="entry-footer">
-					</footer>
-</article><!-- #post-## -->
-
-						</div><!-- #primary -->
-
-	
-	<div id="quaternary" class="featured-page-area">
-		<div class="featured-page-wrapper clear">
-
-																								
-		</div><!-- .featured-page-wrapper -->
-	</div><!-- #quaternary -->
+<body>
+  
+  
+    <script type="text/javascript">var _body_start = new Date();</script>
+    
+  
 
 
-	
-	
 
-	</div>
+    <link href="//img3.doubanio.com/dae/accounts/resources/321e246/shire/bundle.css" rel="stylesheet" type="text/css">
 
-	
-	<footer id="colophon" class="site-footer" role="contentinfo">
-				<div class="site-info">
-	<a href="https://wordpress.com/?ref=footer_blog">在WordPress.com的博客.</a>
-	
-	</div><!-- .site-info -->	</footer>
+
+
+<div id="db-global-nav" class="global-nav">
+  <div class="bd">
+    
+<div class="top-nav-info">
+  <a href="https://www.douban.com/accounts/login?source=main" class="nav-login" rel="nofollow">登录</a>
+  <a href="https://www.douban.com/accounts/register?source=main" class="nav-register" rel="nofollow">注册</a>
 </div>
-<!--  -->
-<script type='text/javascript' src='//0.gravatar.com/js/gprofiles.js?ver=201817y'></script>
-<script type='text/javascript'>
-/* <![CDATA[ */
-var WPGroHo = {"my_hash":""};
-/* ]]> */
-</script>
-<script type='text/javascript' src='https://s1.wp.com/wp-content/mu-plugins/gravatar-hovercards/wpgroho.js?m=1380573781h'></script>
 
-	<script>
-		//initialize and attach hovercards to all gravatars
-		jQuery( document ).ready( function( $ ) {
 
-			if (typeof Gravatar === "undefined"){
-				return;
-			}
+    
+<div class="top-nav-doubanapp">
+  <a href="https://www.douban.com/doubanapp/app?channel=top-nav" class="lnk-doubanapp">下载豆瓣客户端</a>
+  <div id="top-nav-appintro" class="more-items">
+    <p class="appintro-title">豆瓣</p>
+    <p class="qrcode">扫码直接下载</p>
+    <div class="download">
+      <a href="https://www.douban.com/doubanapp/redirect?channel=top-nav&direct_dl=1&download=iOS">iPhone</a>
+      <span>·</span>
+      <a href="https://www.douban.com/doubanapp/redirect?channel=top-nav&direct_dl=1&download=Android" class="download-android">Android</a>
+    </div>
+    <div id="doubanapp-tip">
+      <a href="https://www.douban.com/doubanapp/app?channel=qipao" class="tip-link">豆瓣 5.0 全新发布</a>
+      <a href="javascript: void 0;" class="tip-close">×</a>
+    </div>
+  </div>
+</div>
 
-			if ( typeof Gravatar.init !== "function" ) {
-				return;
-			}			
+    
 
-			Gravatar.profile_cb = function( hash, id ) {
-				WPGroHo.syncProfileData( hash, id );
-			};
-			Gravatar.my_hash = WPGroHo.my_hash;
-			Gravatar.init( 'body', '#wp-admin-bar-my-account' );
-		});
-	</script>
 
-		<div style="display:none">
-	</div>
-<script type='text/javascript'>
-/* <![CDATA[ */
-var comment_like_text = {"loading":"\u6b63\u5728\u52a0\u8f7d\u2026\u2026"};
-/* ]]> */
-</script>
-<script type='text/javascript'>
-/* <![CDATA[ */
-var actionbardata = {"siteID":"144679368","siteName":"Roger\u7684\u8ba1\u7b97\u673a\u6f2b\u6f2b\u5165\u95e8\u8def","siteURL":"http:\/\/zbyroger0128.wordpress.com","icon":"<img alt='' src='https:\/\/s2.wp.com\/i\/logo\/wpcom-gray-white.png' class='avatar avatar-50' height='50' width='50' \/>","canManageOptions":"","canCustomizeSite":"","isFollowing":"","themeSlug":"pub\/dara","signupURL":"https:\/\/wordpress.com\/start\/","loginURL":"https:\/\/zbyroger0128.wordpress.com\/wp-login.php?redirect_to=https%3A%2F%2Fzbyroger0128.wordpress.com%2F","themeURL":"https:\/\/wordpress.com\/theme\/dara\/","xhrURL":"https:\/\/zbyroger0128.wordpress.com\/wp-admin\/admin-ajax.php","nonce":"c2e80a3df7","isSingular":"1","isFolded":"","isLoggedIn":"","isMobile":"","subscribeNonce":"<input type=\"hidden\" id=\"_wpnonce\" name=\"_wpnonce\" value=\"f7a3c3355a\" \/>","referer":"https:\/\/zbyroger0128.wordpress.com\/","canFollow":"","feedID":"80994223","statusMessage":"","customizeLink":"https:\/\/zbyroger0128.wordpress.com\/wp-admin\/customize.php?url=https%3A%2F%2Fzbyroger0128.wordpress.com%2F","postID":"5","shortlink":"https:\/\/wp.me\/P9N3Ic-5","canEditPost":"","editLink":"https:\/\/wordpress.com\/page\/zbyroger0128.wordpress.com\/5","statsLink":"https:\/\/wordpress.com\/stats\/post\/5\/zbyroger0128.wordpress.com","i18n":{"view":"\u67e5\u770b\u7f51\u7ad9","follow":"\u5173\u6ce8","following":"\u5173\u6ce8\u4e2d","edit":"\u7f16\u8f91","login":"\u767b\u5f55","signup":"\u6ce8\u518c","customize":"\u81ea\u5b9a\u4e49","report":"\u4e3e\u62a5\u6b64\u5185\u5bb9","themeInfo":"\u83b7\u53d6\u4e3b\u9898: Dara","shortlink":"\u590d\u5236\u77ed\u94fe\u63a5","copied":"\u5df2\u590d\u5236","followedText":"\u6b64\u65f6\uff0c\u8be5\u7ad9\u70b9\u4e2d\u7684\u65b0\u6587\u7ae0\u5c06\u663e\u793a\u5728\u60a8\u7684<a href=\"https:\/\/wordpress.com\/\">\u9605\u8bfb\u5668<\/a>\u4e2d","foldBar":"\u6536\u8d77\u6b64\u680f","unfoldBar":"\u5c55\u5f00\u6b64\u680f","editSubs":"\u7ba1\u7406\u8ba2\u9605","viewReader":"\u5728\u9605\u8bfb\u5668\u4e2d\u67e5\u770b\u201c\u7ad9\u70b9\u201d","viewReadPost":"View post in Reader","subscribe":"\u4e3a\u6211\u6ce8\u518c","enterEmail":"\u8f93\u5165\u60a8\u7684\u7535\u5b50\u90ae\u4ef6\u5730\u5740","followers":"","alreadyUser":"\u5df2\u6709 WordPress.com \u5e10\u6237\uff1f<a href=\"https:\/\/zbyroger0128.wordpress.com\/wp-login.php?redirect_to=https%3A%2F%2Fzbyroger0128.wordpress.com%2F\">\u7acb\u5373\u767b\u5f55\u3002<\/a>","stats":"\u7edf\u8ba1"}};
-/* ]]> */
-</script>
-<script type='text/javascript' src='https://s2.wp.com/_static/??-eJyVkFkOwjAMRC9EMKv4QpzFTVxw2yzEScvxSUFCBaQK/qzxvLHGMASlvUvkEjQChnrWFG7LRhYwWdmsQpfP7AQ6bkngminTBZ3pKM6Ytbe2SOoJNSNdgQwc6B/oTfgE04VssYVcgcGIgCKUHpjDns+Y2LvfGWk5lDuuVbXXWVTNc79AY9mpCiNYlESxTMr3FCObEv/S/kxIEXX71XMK6bHUCL2m4j7Z43q/Wa92291h09wBHTiwtg=='></script>
-<script type="text/javascript">
-// <![CDATA[
-(function() {
-try{
-  if ( window.external &&'msIsSiteMode' in window.external) {
-    if (window.external.msIsSiteMode()) {
-      var jl = document.createElement('script');
-      jl.type='text/javascript';
-      jl.async=true;
-      jl.src='/wp-content/plugins/ie-sitemode/custom-jumplist.php';
-      var s = document.getElementsByTagName('script')[0];
-      s.parentNode.insertBefore(jl, s);
-    }
-  }
-}catch(e){}
-})();
-// ]]>
-</script>	<script type="text/javascript">
-	var skimlinks_pub_id = "725X584219"
-	var skimlinks_sitename = "zbyroger0128.wordpress.com";
-	</script>
-	<script type="text/javascript" defer src="https://s.skimresources.com/js/725X1342.skimlinks.js"></script><script src="//stats.wp.com/w.js?56" type="text/javascript" async defer></script>
-<script type="text/javascript">
-_tkq = window._tkq || [];
-_stq = window._stq || [];
-_tkq.push(['storeContext', {'blog_id':'144679368','blog_tz':'0','user_lang':'zh-cn','blog_lang':'zh-cn','user_id':'0'}]);
-_stq.push(['view', {'blog':'144679368','v':'wpcom','tz':'0','user_id':'0','post':'5','subd':'zbyroger0128'}]);
-_stq.push(['extra', {'crypt':'UE40eW5QN0p8M2Y/RE1mJVY3bm9aR3VCbS9mWm1pRyZuJS1LX1t5QmRXZzE3RC9rQWZHK1FjbDltdWdaMVFFZTcxUGVHLWR0WTJoMGFtWUxNRVR8aSZFfHJNcEw3RFg3N2MzUj1rUmI3TnFRR3VoRkZUKz9jTGU1N0ZUK2tLaXR5RCxOfHRjYXZjZUl3N3JRaGZsa2dqeSUlMEdQYTd2c2pKWnw5alRhd1UrUk53YksyLEtmVEhDUDkyQVVRVW84Jl9POTVbdjF+LFdkREYyeStheUlWOGpXb2huMVNMW3lDdGdlcmZmdFRabStyNEc='}]);
-_stq.push([ 'clickTrackerInit', '144679368', '5' ]);
-	</script>
-<noscript><img src="https://pixel.wp.com/b.gif?v=noscript" style="height:0px;width:0px;overflow:hidden" alt="" /></noscript>
+<div class="global-nav-items">
+  <ul>
+    <li class="on">
+      <a href="https://www.douban.com"  data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-main&quot;,&quot;uid&quot;:&quot;0&quot;}">豆瓣</a>
+    </li>
+    <li class="">
+      <a href="https://book.douban.com" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-book&quot;,&quot;uid&quot;:&quot;0&quot;}">读书</a>
+    </li>
+    <li class="">
+      <a href="https://movie.douban.com" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-movie&quot;,&quot;uid&quot;:&quot;0&quot;}">电影</a>
+    </li>
+    <li class="">
+      <a href="https://music.douban.com" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-music&quot;,&quot;uid&quot;:&quot;0&quot;}">音乐</a>
+    </li>
+    <li class="">
+      <a href="https://www.douban.com/location" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-location&quot;,&quot;uid&quot;:&quot;0&quot;}">同城</a>
+    </li>
+    <li class="">
+      <a href="https://www.douban.com/group" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-group&quot;,&quot;uid&quot;:&quot;0&quot;}">小组</a>
+    </li>
+    <li class="">
+      <a href="https://read.douban.com&#47;?dcs=top-nav&amp;dcm=douban" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-read&quot;,&quot;uid&quot;:&quot;0&quot;}">阅读</a>
+    </li>
+    <li class="">
+      <a href="https://douban.fm&#47;?from_=shire_top_nav" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-fm&quot;,&quot;uid&quot;:&quot;0&quot;}">FM</a>
+    </li>
+    <li class="">
+      <a href="https://time.douban.com&#47;?dt_time_source=douban-web_top_nav" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-time&quot;,&quot;uid&quot;:&quot;0&quot;}">时间</a>
+    </li>
+    <li class="">
+      <a href="https://market.douban.com&#47;?utm_campaign=douban_top_nav&amp;utm_source=douban&amp;utm_medium=pc_web" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-market&quot;,&quot;uid&quot;:&quot;0&quot;}">市集</a>
+    </li>
+    <li>
+      <a href="#more" class="bn-more"><span>更多</span></a>
+      <div class="more-items">
+        <table cellpadding="0" cellspacing="0">
+          <tbody>
+            <tr>
+              <td>
+                <a href="https://ypy.douban.com" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-ypy&quot;,&quot;uid&quot;:&quot;0&quot;}">豆瓣摄影</a>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </li>
+  </ul>
+</div>
+
+  </div>
+</div>
 <script>
-if ( 'object' === typeof wpcom_mobile_user_agent_info ) {
+  ;window._GLOBAL_NAV = {
+    DOUBAN_URL: "https://www.douban.com",
+    N_NEW_NOTIS: 0,
+    N_NEW_DOUMAIL: 0
+  };
+</script>
 
-	wpcom_mobile_user_agent_info.init();
-	var mobileStatsQueryString = "";
-	
-	if( false !== wpcom_mobile_user_agent_info.matchedPlatformName )
-		mobileStatsQueryString += "&x_" + 'mobile_platforms' + '=' + wpcom_mobile_user_agent_info.matchedPlatformName;
-	
-	if( false !== wpcom_mobile_user_agent_info.matchedUserAgentName )
-		mobileStatsQueryString += "&x_" + 'mobile_devices' + '=' + wpcom_mobile_user_agent_info.matchedUserAgentName;
-	
-	if( wpcom_mobile_user_agent_info.isIPad() )
-		mobileStatsQueryString += "&x_" + 'ipad_views' + '=' + 'views';
 
-	if( "" != mobileStatsQueryString ) {
-		new Image().src = document.location.protocol + '//pixel.wp.com/g.gif?v=wpcom-no-pv' + mobileStatsQueryString + '&baba=' + Math.random();
-	}
-	
+
+    <script src="//img3.doubanio.com/dae/accounts/resources/321e246/shire/bundle.js" defer="defer"></script>
+
+
+
+
+  
+
+
+
+    <link href="//img3.doubanio.com/dae/accounts/resources/321e246/sns/bundle.css" rel="stylesheet" type="text/css">
+
+
+
+<div id="db-nav-sns" class="nav">
+  <div class="nav-wrap">
+    <div class="nav-primary">
+     
+      <div class="nav-logo">
+        <a href="https://www.douban.com">豆瓣社区</a>
+      </div>
+
+      <div class="nav-search">
+  <form action="https://www.douban.com/search" method="get">
+	<fieldset>
+      <legend>搜索：</legend>
+	  <label for="inp-query">搜索你感兴趣的内容和人...</label>
+	  <div class="inp">
+	    <input type="hidden" name="source" value="suggest">
+		<input id="inp-query" name="q" size="22" maxlength="60" autocomplete="off" value="">
+	  </div>
+	  <div class="inp-btn"><input type="submit" value="搜索"></div>
+	</fieldset>
+  </form>
+</div>
+
+      
+
+<div class="nav-items">
+  <ul>
+    <li><a href="https://www.douban.com">首页</a></li>
+      <li>
+        <a href="https://www.douban.com/explore">
+          浏览发现
+        </a>
+      </li>
+      <li>
+        <a href="https://www.douban.com/gallery">
+          话题广场
+          <img src="https://img3.doubanio.com/f/shire/e49eca1517424a941871a2667a8957fd6c72d632/pics/new_menu.gif" alt="new" style="position: absolute; top: -7px; right: -13px;" />
+        </a>
+      </li>
+  </ul>
+</div>
+
+    </div>
+  </div>
+</div>
+
+
+
+    <script src="//img3.doubanio.com/dae/accounts/resources/321e246/sns/bundle.js" defer="defer"></script>
+
+
+
+
+
+    <div id="wrapper">
+        
+
+        
+<div id="content">
+    
+    <h1>【豆瓣高分动画长片】</h1>
+
+    <div class="grid-16-8 clearfix">
+        
+        
+        <div class="article">
+               
+  
+  
+  <div id="doulist-info" class="mod">
+    <div class="hd">
+      <a href="https://www.douban.com/people/tjz230/" class="avatar">
+        <img src="https://img1.doubanio.com/icon/u1005928-127.jpg" width="24" height="24" alt="影志" />
+      </a>
+
+      <div class="meta">
+        来自: <a href="https://www.douban.com/people/tjz230/">
+          影志
+            (北京)
+        </a>
+        <span class="time">
+          2009-03-30创建
+            &nbsp;&nbsp;2018-01-31更新
+        </span>
+      </div>
+    </div>
+
+    <div class="bd" id="link-report">
+      
+      <div class="doulist-about">
+        收录原则：豆瓣评分&gt;7.5分。<br/>动画片长：至少要达到40分钟、至少75%是动画，或是动画长度40分钟。<br/>排序按：加权平均分 &amp; 评星人数<br/><br/>本豆列按以下【排序阶梯】分为6大部分：<br/>1. 评分人数&gt;2000人<br/>2. 2000人&gt;评分人数&gt;200人<br/>3. 评分人数&lt;200人<br/>4. 系列动画长片<br/>5. 动画合集<br/>6. 剧场版及OVA<br/><br/><a href="https://www.douban.com/link2/?url=http%3A%2F%2Fmovie.douban.com%2Fdoulist%2F225067%2F">http://movie.douban.<wbr/>com/doulist/225067/</a> 【豆瓣高分动画剧集】<br/><a href="https://www.douban.com/link2/?url=http%3A%2F%2Fmovie.douban.com%2Fdoulist%2F222008%2F">http://movie.douban.<wbr/>com/doulist/222008/</a> 【豆瓣高分短片】<br/><br/>20130709更新：《疯狂原始人》9.1、《艾特熊和赛娜鼠》8.8<br/>20130419更新：《无敌破坏王》8.8、《萤火之森》8.7、《狼的孩子雨和雪》8.5、《画之国》8.3、《意外的幸运签》8.1、《守护者联盟》8.0、《冰川时代4》8.0、《给桃子的信》7.9、《怪物旅社》7.9、《丁丁历险记》7.6、《猫在巴黎》7.6、《轻音少女 剧场版》8.7<br/>20110501更新：日本动画平均每部上涨0.1分，《瓦力》仍高居榜首。一年来新增高分动画长片有《你看起来好像很好吃》9.0、《玩具3》8.9、《驯龙记》8.8、《里约大冒险》8.8、《魔术师》8.7、《卑鄙的我》8.4、《长发公主》8.1、《超级大坏蛋》7.8、《惊恐小镇》7.8
+        <br />
+      </div>
+    </div>
+
+  </div>
+
+  
+<style>
+    #link-report .report { text-align: right; font-size: 13px; visibility: hidden; }
+    #link-report .report a { color: #BBB; }
+    #link-report .report a:hover { color: #FFF; background-color: #BBB; }
+</style>
+<script>
+    Do = (typeof Do === 'undefined')? $ : Do;
+    Do(function(){
+        $("body").delegate("#link-report", 'mouseenter mouseleave', function(e){
+          switch (e.type) {
+                case "mouseenter":
+                  $(this).find(".report").css('visibility', 'visible');
+                  break;
+                case "mouseleave":
+                  $(this).find(".report").css('visibility', 'hidden');
+                  break;
+              }
+        });
+        $("#link-report").delegate(".report a", 'click', function(e){
+            e.preventDefault();
+            var auditUrl = "https://www.douban.com/misc/audit_report?url=",
+            opt = "";
+            var obj = $(e.target).closest('#link-report');
+            var id = obj.length != 0 ? obj.data("id") : undefined;
+            var params = (opt&&id) ? '?'.concat(opt, '=', id) : '';
+            var url = auditUrl.concat("https://www.douban.com/doulist/223781/", params);
+            window.location.href = url;
+        });
+
+        $("#link-report").append('<div class="report"><a rel="nofollow" href="#">举报</a></div>');
+
+        $('.remove-doulist-item-comment').live('click', function(event){
+            event.preventDefault();
+            if(!confirm("确定要删除这个评语？")) return;
+
+            var subject_id = $(this).data('subject-id');
+            var comment = $(this).parent();
+
+            $.post_withck(
+                '/j/doulist/' + 223781 + '/admin_remove_item_comment',
+                { subject_id: subject_id },
+                function(data){
+                    if(data.r == 0)
+                        comment.remove();
+                },
+                "json"
+            );
+        });
+    });
+</script>
+
+  <br clear="all"/>
+  
+  <div class="doulist-interactions">
+    <div class="doulist-panel">
+        
+  
+
+
+
+
+
+
+
+
+    <div class="rec-sec">
+
+    <span class="rec">
+
+<a data-user_id="0" href="https://www.douban.com/accounts/register?reason=collect" share-id="223781" data-mode="plain" data-name="【豆瓣高分动画长片】" data-type="" data-desc="收录原则：豆瓣评分&gt;7.5分。
+动画片长：至少要达到40分钟、至少75..." data-href="https://www.douban.com/doulist/223781/" data-image="" data-properties="{}" data-redir="https://www.douban.com/static/dshare_proxy.html" data-text="" data-apikey="" data-curl="" data-count="10" data-object_kind="1020" data-object_id="223781" data-target_type="rec" data-target_action="0" data-action_props="{&#34;doulist_title&#34;:&#34;【豆瓣高分动画长片】&#34;,&#34;doulist_url&#34;:&#34;http:\/\/www.douban.com\/doulist\/223781\/&#34;}" data-btn_text="推荐" data-heading="推荐到豆瓣" data-sanity_key="_84b39" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+        <span class="rec-num">5636人</span>
+</div>
+
+
+    </div>
+
+
+      
+  
+    
+    <div class="doulist-collect">
+      <a href="https://www.douban.com/doulist/223781/?collect=yes&amp;ck=None" class="lnk-collect j a_show_login" name="pbtn-223781">
+        <i>+</i>收藏
+      </a>
+      &nbsp;
+      
+    <a href="https://www.douban.com/doulist/223781/?type=followers#main" class="doulist-followers-link">43439</a>人收藏&nbsp;
+
+    </div>
+
+  </div>
+
+
+  
+  <div class="doulist-filter">
+    <a href="https://www.douban.com/doulist/223781/" class="active">全部<span>(272)</span></a>
+      <span>·</span>
+      <a href="https://www.douban.com/doulist/223781/?sort=seq&amp;sub_type=1" class="">影视<span>(272)</span></a>
+  </div>
+
+  
+    
+  <div class="sort-tab">
+        <a href="?sort=time&sub_type=">按添加顺序查看</a>
+  </div>
+
+  <div class="clearfix"></div>
+
+        
+  <div id="item1731590" class="doulist-item" >
+    <div class="mod">
+      
+  <div class="hd">
+      <span class="pos">1</span>
+  </div>
+
+      
+  
+  
+  <div class="bd doulist-subject">
+    
+
+
+
+    <div class="source">
+      来自：豆瓣电影
+    </div>
+    
+    <div class="post">
+      <a href="https://movie.douban.com/subject/2131459/" target="_blank">
+        <img width="100" src="https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1461851991.jpg"/>
+      </a>
+    </div>
+    <div class="title">
+      <a href="https://movie.douban.com/subject/2131459/" target="_blank">
+        机器人总动员 WALL·E
+      </a>
+    </div>
+    
+      <div class="rating">
+          <span class="allstar50"></span>
+          <span class="rating_nums">9.3</span>
+          <span>(559334人评价)</span>
+      </div>
+    <div class="abstract">
+      
+          导演: 安德鲁·斯坦顿
+            <br />
+          主演: 本·贝尔特 / 艾丽莎·奈特 / 杰夫·格尔林
+            <br />
+          类型: 爱情 / 科幻 / 动画 / 冒险
+            <br />
+          制片国家/地区: 美国
+            <br />
+          年份: 2008
+    </div>
+  </div>
+
+
+      
+  
+  <div class="ft">
+    <div class="comment-item content" data-cid="1731590">
+      <blockquote class="comment">
+        <span>评语：</span>9.3
+
+(350868人评价) 
+      </blockquote>
+    </div>
+
+    <div class="actions">
+
+      <time class="time">
+  <span title="2009-03-30 06:10:49">
+    2009年3月30日
+  </span>
+</time>
+
+        <a href="javascript: void 0;" class="btn btn-like j a_show_login" data-action-type="like">赞</a>
+        <span class="count like-count" data-count="69">(69)</span>
+
+      <a href="javascript: void 0;" class="btn btn-action-reply" data-action-type="showComments" data-count="0">回复</a>
+
+    </div>
+
+    <div class="others">
+      <div class="comments">
+        <div class="comments-items"></div>
+        <a href="javascript:void(0);" class="btn" data-action-type="showComments" style="display: none;">加载更多</a>
+          <span class="pl" align="right"><a class="j a_show_login" href="https://www.douban.com/accounts/register?reason=comment">&gt; 我来回复</a></span>
+      </div>
+    </div>
+  </div>
+
+  
+
+  
+
+    </div>
+  </div>
+
+        
+  <div id="item250698090" class="doulist-item" >
+    <div class="mod">
+      
+  <div class="hd">
+      <span class="pos">2</span>
+  </div>
+
+      
+  
+  
+  <div class="bd doulist-subject">
+    
+
+
+
+    <div class="source">
+      来自：豆瓣电影
+    </div>
+    
+    <div class="post">
+      <a href="https://movie.douban.com/subject/25662329/" target="_blank">
+        <img width="100" src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2315672647.jpg"/>
+      </a>
+    </div>
+    <div class="title">
+      <a href="https://movie.douban.com/subject/25662329/" target="_blank">
+        疯狂动物城 Zootopia
+      </a>
+    </div>
+    
+      <div class="rating">
+          <span class="allstar45"></span>
+          <span class="rating_nums">9.2</span>
+          <span>(585097人评价)</span>
+      </div>
+    <div class="abstract">
+      
+          导演: 拜伦·霍华德 / 瑞奇·摩尔 / 杰拉德·布什
+            <br />
+          主演: 金妮弗·古德温 / 杰森·贝特曼 / 伊德里斯·艾尔巴
+            <br />
+          类型: 喜剧 / 动画 / 冒险
+            <br />
+          制片国家/地区: 美国
+            <br />
+          年份: 2016
+    </div>
+  </div>
+
+
+      
+  
+  <div class="ft">
+
+    <div class="actions">
+
+      <time class="time">
+  <span title="2016-03-04 23:37:53">
+    2016年3月4日
+  </span>
+</time>
+
+        <a href="javascript: void 0;" class="btn btn-like j a_show_login" data-action-type="like">赞</a>
+        <span class="count like-count" data-count="56">(56)</span>
+
+      <a href="javascript: void 0;" class="btn btn-action-reply" data-action-type="showComments" data-count="4">4回复</a>
+
+    </div>
+
+    <div class="others">
+      <div class="comments">
+        <div class="comments-items"></div>
+        <a href="javascript:void(0);" class="btn" data-action-type="showComments" style="display: none;">加载更多</a>
+          <span class="pl" align="right"><a class="j a_show_login" href="https://www.douban.com/accounts/register?reason=comment">&gt; 我来回复</a></span>
+      </div>
+    </div>
+  </div>
+
+  
+
+  
+
+    </div>
+  </div>
+
+        
+  <div id="item1731589" class="doulist-item" >
+    <div class="mod">
+      
+  <div class="hd">
+      <span class="pos">3</span>
+  </div>
+
+      
+  
+  
+  <div class="bd doulist-subject">
+    
+
+
+
+    <div class="source">
+      来自：豆瓣电影
+    </div>
+    
+    <div class="post">
+      <a href="https://movie.douban.com/subject/1418019/" target="_blank">
+        <img width="100" src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2184505167.jpg"/>
+      </a>
+    </div>
+    <div class="title">
+      <a href="https://movie.douban.com/subject/1418019/" target="_blank">
+        大闹天宫
+      </a>
+    </div>
+    
+      <div class="rating">
+          <span class="allstar50"></span>
+          <span class="rating_nums">9.2</span>
+          <span>(111624人评价)</span>
+      </div>
+    <div class="abstract">
+      
+          导演: 万籁鸣 / 唐澄
+            <br />
+          主演: 邱岳峰 / 富润生 / 毕克
+            <br />
+          类型: 动画 / 奇幻
+            <br />
+          制片国家/地区: 中国大陆
+            <br />
+          年份: 1961
+    </div>
+  </div>
+
+
+      
+  
+  <div class="ft">
+    <div class="comment-item content" data-cid="1731589">
+      <blockquote class="comment">
+        <span>评语：</span>9.2
+
+(58609人评价) 
+      </blockquote>
+    </div>
+
+    <div class="actions">
+
+      <time class="time">
+  <span title="2009-04-04 07:54:48">
+    2009年4月4日
+  </span>
+</time>
+
+        <a href="javascript: void 0;" class="btn btn-like j a_show_login" data-action-type="like">赞</a>
+        <span class="count like-count" data-count="28">(28)</span>
+
+      <a href="javascript: void 0;" class="btn btn-action-reply" data-action-type="showComments" data-count="1">1回复</a>
+
+    </div>
+
+    <div class="others">
+      <div class="comments">
+        <div class="comments-items"></div>
+        <a href="javascript:void(0);" class="btn" data-action-type="showComments" style="display: none;">加载更多</a>
+          <span class="pl" align="right"><a class="j a_show_login" href="https://www.douban.com/accounts/register?reason=comment">&gt; 我来回复</a></span>
+      </div>
+    </div>
+  </div>
+
+  
+
+  
+
+    </div>
+  </div>
+
+        
+  <div id="item1731588" class="doulist-item" >
+    <div class="mod">
+      
+  <div class="hd">
+      <span class="pos">4</span>
+  </div>
+
+      
+  
+  
+  <div class="bd doulist-subject">
+    
+
+
+
+    <div class="source">
+      来自：豆瓣电影
+    </div>
+    
+    <div class="post">
+      <a href="https://movie.douban.com/subject/1291561/" target="_blank">
+        <img width="100" src="https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1606727862.jpg"/>
+      </a>
+    </div>
+    <div class="title">
+      <a href="https://movie.douban.com/subject/1291561/" target="_blank">
+        千与千寻 千と千尋の神隠し
+      </a>
+    </div>
+    
+      <div class="rating">
+          <span class="allstar50"></span>
+          <span class="rating_nums">9.3</span>
+          <span>(761922人评价)</span>
+      </div>
+    <div class="abstract">
+      
+          导演: 宫崎骏
+            <br />
+          主演: 柊瑠美 / 入野自由 / 夏木真理
+            <br />
+          类型: 剧情 / 动画 / 奇幻
+            <br />
+          制片国家/地区: 日本
+            <br />
+          年份: 2001
+    </div>
+  </div>
+
+
+      
+  
+  <div class="ft">
+    <div class="comment-item content" data-cid="1731588">
+      <blockquote class="comment">
+        <span>评语：</span>9.1
+
+(433594人评价) 
+      </blockquote>
+    </div>
+
+    <div class="actions">
+
+      <time class="time">
+  <span title="2009-04-04 08:04:24">
+    2009年4月4日
+  </span>
+</time>
+
+        <a href="javascript: void 0;" class="btn btn-like j a_show_login" data-action-type="like">赞</a>
+        <span class="count like-count" data-count="36">(36)</span>
+
+      <a href="javascript: void 0;" class="btn btn-action-reply" data-action-type="showComments" data-count="0">回复</a>
+
+    </div>
+
+    <div class="others">
+      <div class="comments">
+        <div class="comments-items"></div>
+        <a href="javascript:void(0);" class="btn" data-action-type="showComments" style="display: none;">加载更多</a>
+          <span class="pl" align="right"><a class="j a_show_login" href="https://www.douban.com/accounts/register?reason=comment">&gt; 我来回复</a></span>
+      </div>
+    </div>
+  </div>
+
+  
+
+  
+
+    </div>
+  </div>
+
+        
+  <div id="item1731587" class="doulist-item" >
+    <div class="mod">
+      
+  <div class="hd">
+      <span class="pos">5</span>
+  </div>
+
+      
+  
+  
+  <div class="bd doulist-subject">
+    
+
+
+
+    <div class="source">
+      来自：豆瓣电影
+    </div>
+    
+    <div class="post">
+      <a href="https://movie.douban.com/subject/1291560/" target="_blank">
+        <img width="100" src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p537668599.jpg"/>
+      </a>
+    </div>
+    <div class="title">
+      <a href="https://movie.douban.com/subject/1291560/" target="_blank">
+        龙猫 となりのトトロ
+      </a>
+    </div>
+    
+      <div class="rating">
+          <span class="allstar45"></span>
+          <span class="rating_nums">9.1</span>
+          <span>(473194人评价)</span>
+      </div>
+    <div class="abstract">
+      
+          导演: 宫崎骏
+            <br />
+          主演: 日高法子 / 坂本千夏 / 糸井重里
+            <br />
+          类型: 儿童 / 动画 / 奇幻 / 家庭
+            <br />
+          制片国家/地区: 日本
+            <br />
+          年份: 1988
+    </div>
+  </div>
+
+
+      
+  
+  <div class="ft">
+    <div class="comment-item content" data-cid="1731587">
+      <blockquote class="comment">
+        <span>评语：</span>9.1
+
+(284278人评价) 
+      </blockquote>
+    </div>
+
+    <div class="actions">
+
+      <time class="time">
+  <span title="2009-04-04 08:05:14">
+    2009年4月4日
+  </span>
+</time>
+
+        <a href="javascript: void 0;" class="btn btn-like j a_show_login" data-action-type="like">赞</a>
+        <span class="count like-count" data-count="21">(21)</span>
+
+      <a href="javascript: void 0;" class="btn btn-action-reply" data-action-type="showComments" data-count="0">回复</a>
+
+    </div>
+
+    <div class="others">
+      <div class="comments">
+        <div class="comments-items"></div>
+        <a href="javascript:void(0);" class="btn" data-action-type="showComments" style="display: none;">加载更多</a>
+          <span class="pl" align="right"><a class="j a_show_login" href="https://www.douban.com/accounts/register?reason=comment">&gt; 我来回复</a></span>
+      </div>
+    </div>
+  </div>
+
+  
+
+  
+
+    </div>
+  </div>
+
+        
+  <div id="item1731586" class="doulist-item" >
+    <div class="mod">
+      
+  <div class="hd">
+      <span class="pos">6</span>
+  </div>
+
+      
+  
+  
+  <div class="bd doulist-subject">
+    
+
+
+
+    <div class="source">
+      来自：豆瓣电影
+    </div>
+    
+    <div class="post">
+      <a href="https://movie.douban.com/subject/1291566/" target="_blank">
+        <img width="100" src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p453466108.jpg"/>
+      </a>
+    </div>
+    <div class="title">
+      <a href="https://movie.douban.com/subject/1291566/" target="_blank">
+        攻壳机动队2：无罪 攻殻機動隊2 イノセンス
+      </a>
+    </div>
+    
+      <div class="rating">
+          <span class="allstar45"></span>
+          <span class="rating_nums">9.0</span>
+          <span>(36156人评价)</span>
+      </div>
+    <div class="abstract">
+      
+          导演: 押井守
+            <br />
+          主演: 田中敦子 / 大塚明夫 / 山寺宏一
+            <br />
+          类型: 剧情 / 科幻 / 动画
+            <br />
+          制片国家/地区: 日本
+            <br />
+          年份: 2004
+    </div>
+  </div>
+
+
+      
+  
+  <div class="ft">
+    <div class="comment-item content" data-cid="1731586">
+      <blockquote class="comment">
+        <span>评语：</span>9.0
+
+(18448人评价) 
+      </blockquote>
+    </div>
+
+    <div class="actions">
+
+      <time class="time">
+  <span title="2009-04-04 09:10:39">
+    2009年4月4日
+  </span>
+</time>
+
+        <a href="javascript: void 0;" class="btn btn-like j a_show_login" data-action-type="like">赞</a>
+        <span class="count like-count" data-count="10">(10)</span>
+
+      <a href="javascript: void 0;" class="btn btn-action-reply" data-action-type="showComments" data-count="0">回复</a>
+
+    </div>
+
+    <div class="others">
+      <div class="comments">
+        <div class="comments-items"></div>
+        <a href="javascript:void(0);" class="btn" data-action-type="showComments" style="display: none;">加载更多</a>
+          <span class="pl" align="right"><a class="j a_show_login" href="https://www.douban.com/accounts/register?reason=comment">&gt; 我来回复</a></span>
+      </div>
+    </div>
+  </div>
+
+  
+
+  
+
+    </div>
+  </div>
+
+        
+  <div id="item1731585" class="doulist-item" >
+    <div class="mod">
+      
+  <div class="hd">
+      <span class="pos">7</span>
+  </div>
+
+      
+  
+  
+  <div class="bd doulist-subject">
+    
+
+
+
+    <div class="source">
+      来自：豆瓣电影
+    </div>
+    
+    <div class="post">
+      <a href="https://movie.douban.com/subject/2129039/" target="_blank">
+        <img width="100" src="https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2364094053.jpg"/>
+      </a>
+    </div>
+    <div class="title">
+      <a href="https://movie.douban.com/subject/2129039/" target="_blank">
+        飞屋环游记 Up
+      </a>
+    </div>
+    
+      <div class="rating">
+          <span class="allstar45"></span>
+          <span class="rating_nums">8.9</span>
+          <span>(554257人评价)</span>
+      </div>
+    <div class="abstract">
+      
+          导演: 彼特·道格特 / 鲍勃·彼德森
+            <br />
+          主演: 爱德华·阿斯纳 / 克里斯托弗·普卢默 / 乔丹·长井
+            <br />
+          类型: 剧情 / 喜剧 / 动画 / 冒险
+            <br />
+          制片国家/地区: 美国
+            <br />
+          年份: 2009
+    </div>
+  </div>
+
+
+      
+  
+  <div class="ft">
+    <div class="comment-item content" data-cid="1731585">
+      <blockquote class="comment">
+        <span>评语：</span>8.9
+
+(359715人评价) 
+      </blockquote>
+    </div>
+
+    <div class="actions">
+
+      <time class="time">
+  <span title="2009-06-13 01:27:31">
+    2009年6月13日
+  </span>
+</time>
+
+        <a href="javascript: void 0;" class="btn btn-like j a_show_login" data-action-type="like">赞</a>
+        <span class="count like-count" data-count="27">(27)</span>
+
+      <a href="javascript: void 0;" class="btn btn-action-reply" data-action-type="showComments" data-count="2">2回复</a>
+
+    </div>
+
+    <div class="others">
+      <div class="comments">
+        <div class="comments-items"></div>
+        <a href="javascript:void(0);" class="btn" data-action-type="showComments" style="display: none;">加载更多</a>
+          <span class="pl" align="right"><a class="j a_show_login" href="https://www.douban.com/accounts/register?reason=comment">&gt; 我来回复</a></span>
+      </div>
+    </div>
+  </div>
+
+  
+
+  
+
+    </div>
+  </div>
+
+        
+  <div id="item1731584" class="doulist-item" >
+    <div class="mod">
+      
+  <div class="hd">
+      <span class="pos">8</span>
+  </div>
+
+      
+  
+  
+  <div class="bd doulist-subject">
+    
+
+
+
+    <div class="source">
+      来自：豆瓣电影
+    </div>
+    
+    <div class="post">
+      <a href="https://movie.douban.com/subject/1907966/" target="_blank">
+        <img width="100" src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1867084027.jpg"/>
+      </a>
+    </div>
+    <div class="title">
+      <a href="https://movie.douban.com/subject/1907966/" target="_blank">
+        疯狂原始人 The Croods
+      </a>
+    </div>
+    
+      <div class="rating">
+          <span class="allstar45"></span>
+          <span class="rating_nums">8.7</span>
+          <span>(391015人评价)</span>
+      </div>
+    <div class="abstract">
+      
+          导演: 柯克·德·米科 / 克里斯·桑德斯
+            <br />
+          主演: 尼古拉斯·凯奇 / 艾玛·斯通 / 瑞安·雷诺兹
+            <br />
+          类型: 喜剧 / 动画 / 冒险
+            <br />
+          制片国家/地区: 美国
+            <br />
+          年份: 2013
+    </div>
+  </div>
+
+
+      
+  
+  <div class="ft">
+    <div class="comment-item content" data-cid="1731584">
+      <blockquote class="comment">
+        <span>评语：</span>8.9
+
+(253024人评价) 
+      </blockquote>
+    </div>
+
+    <div class="actions">
+
+      <time class="time">
+  <span title="2013-04-10 18:46:55">
+    2013年4月10日
+  </span>
+</time>
+
+        <a href="javascript: void 0;" class="btn btn-like j a_show_login" data-action-type="like">赞</a>
+        <span class="count like-count" data-count="22">(22)</span>
+
+      <a href="javascript: void 0;" class="btn btn-action-reply" data-action-type="showComments" data-count="3">3回复</a>
+
+    </div>
+
+    <div class="others">
+      <div class="comments">
+        <div class="comments-items"></div>
+        <a href="javascript:void(0);" class="btn" data-action-type="showComments" style="display: none;">加载更多</a>
+          <span class="pl" align="right"><a class="j a_show_login" href="https://www.douban.com/accounts/register?reason=comment">&gt; 我来回复</a></span>
+      </div>
+    </div>
+  </div>
+
+  
+
+  
+
+    </div>
+  </div>
+
+        
+  <div id="item1731583" class="doulist-item" >
+    <div class="mod">
+      
+  <div class="hd">
+      <span class="pos">9</span>
+  </div>
+
+      
+  
+  
+  <div class="bd doulist-subject">
+    
+
+
+
+    <div class="source">
+      来自：豆瓣电影
+    </div>
+    
+    <div class="post">
+      <a href="https://movie.douban.com/subject/1291583/" target="_blank">
+        <img width="100" src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1446261379.jpg"/>
+      </a>
+    </div>
+    <div class="title">
+      <a href="https://movie.douban.com/subject/1291583/" target="_blank">
+        天空之城 天空の城ラピュタ
+      </a>
+    </div>
+    
+      <div class="rating">
+          <span class="allstar45"></span>
+          <span class="rating_nums">9.0</span>
+          <span>(369658人评价)</span>
+      </div>
+    <div class="abstract">
+      
+          导演: 宫崎骏
+            <br />
+          主演: 田中真弓 / 横泽启子 / 初井言荣
+            <br />
+          类型: 动画 / 奇幻 / 冒险
+            <br />
+          制片国家/地区: 日本
+            <br />
+          年份: 1986
+    </div>
+  </div>
+
+
+      
+  
+  <div class="ft">
+    <div class="comment-item content" data-cid="1731583">
+      <blockquote class="comment">
+        <span>评语：</span>8.9
+
+(223260人评价) 
+      </blockquote>
+    </div>
+
+    <div class="actions">
+
+      <time class="time">
+  <span title="2009-04-04 08:05:34">
+    2009年4月4日
+  </span>
+</time>
+
+        <a href="javascript: void 0;" class="btn btn-like j a_show_login" data-action-type="like">赞</a>
+        <span class="count like-count" data-count="13">(13)</span>
+
+      <a href="javascript: void 0;" class="btn btn-action-reply" data-action-type="showComments" data-count="0">回复</a>
+
+    </div>
+
+    <div class="others">
+      <div class="comments">
+        <div class="comments-items"></div>
+        <a href="javascript:void(0);" class="btn" data-action-type="showComments" style="display: none;">加载更多</a>
+          <span class="pl" align="right"><a class="j a_show_login" href="https://www.douban.com/accounts/register?reason=comment">&gt; 我来回复</a></span>
+      </div>
+    </div>
+  </div>
+
+  
+
+  
+
+    </div>
+  </div>
+
+        
+  <div id="item1731582" class="doulist-item" >
+    <div class="mod">
+      
+  <div class="hd">
+      <span class="pos">10</span>
+  </div>
+
+      
+  
+  
+  <div class="bd doulist-subject">
+    
+
+
+
+    <div class="source">
+      来自：豆瓣电影
+    </div>
+    
+    <div class="post">
+      <a href="https://movie.douban.com/subject/3072124/" target="_blank">
+        <img width="100" src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1820615077.jpg"/>
+      </a>
+    </div>
+    <div class="title">
+      <a href="https://movie.douban.com/subject/3072124/" target="_blank">
+        玛丽和马克思 Mary and Max
+      </a>
+    </div>
+    
+      <div class="rating">
+          <span class="allstar45"></span>
+          <span class="rating_nums">8.9</span>
+          <span>(244525人评价)</span>
+      </div>
+    <div class="abstract">
+      
+          导演: 亚当·艾略特
+            <br />
+          主演: 托妮·科莱特 / 菲利普·塞默·霍夫曼 / 巴瑞·哈姆弗莱斯
+            <br />
+          类型: 剧情 / 动画
+            <br />
+          制片国家/地区: 澳大利亚
+            <br />
+          年份: 2009
+    </div>
+  </div>
+
+
+      
+  
+  <div class="ft">
+    <div class="comment-item content" data-cid="1731582">
+      <blockquote class="comment">
+        <span>评语：</span>8.9
+
+(178394人评价) 
+      </blockquote>
+    </div>
+
+    <div class="actions">
+
+      <time class="time">
+  <span title="2009-06-22 14:30:34">
+    2009年6月22日
+  </span>
+</time>
+
+        <a href="javascript: void 0;" class="btn btn-like j a_show_login" data-action-type="like">赞</a>
+        <span class="count like-count" data-count="25">(25)</span>
+
+      <a href="javascript: void 0;" class="btn btn-action-reply" data-action-type="showComments" data-count="2">2回复</a>
+
+    </div>
+
+    <div class="others">
+      <div class="comments">
+        <div class="comments-items"></div>
+        <a href="javascript:void(0);" class="btn" data-action-type="showComments" style="display: none;">加载更多</a>
+          <span class="pl" align="right"><a class="j a_show_login" href="https://www.douban.com/accounts/register?reason=comment">&gt; 我来回复</a></span>
+      </div>
+    </div>
+  </div>
+
+  
+
+  
+
+    </div>
+  </div>
+
+        
+  <div id="item1731581" class="doulist-item" >
+    <div class="mod">
+      
+  <div class="hd">
+      <span class="pos">11</span>
+  </div>
+
+      
+  
+  
+  <div class="bd doulist-subject">
+    
+
+
+
+    <div class="source">
+      来自：豆瓣电影
+    </div>
+    
+    <div class="post">
+      <a href="https://movie.douban.com/subject/1428581/" target="_blank">
+        <img width="100" src="https://img3.doubanio.com/view/photo/s_ratio_poster/public/p842504080.jpg"/>
+      </a>
+    </div>
+    <div class="title">
+      <a href="https://movie.douban.com/subject/1428581/" target="_blank">
+        天书奇谭
+      </a>
+    </div>
+    
+      <div class="rating">
+          <span class="allstar45"></span>
+          <span class="rating_nums">9.0</span>
+          <span>(51700人评价)</span>
+      </div>
+    <div class="abstract">
+      
+          导演: 王树忱 / 钱运达
+            <br />
+          主演: 丁建华 / 毕克 / 尚华
+            <br />
+          类型: 动画
+            <br />
+          制片国家/地区: 中国大陆
+            <br />
+          年份: 1983
+    </div>
+  </div>
+
+
+      
+  
+  <div class="ft">
+    <div class="comment-item content" data-cid="1731581">
+      <blockquote class="comment">
+        <span>评语：</span>8.9
+
+(35639人评价) 
+      </blockquote>
+    </div>
+
+    <div class="actions">
+
+      <time class="time">
+  <span title="2009-04-04 07:55:56">
+    2009年4月4日
+  </span>
+</time>
+
+        <a href="javascript: void 0;" class="btn btn-like j a_show_login" data-action-type="like">赞</a>
+        <span class="count like-count" data-count="18">(18)</span>
+
+      <a href="javascript: void 0;" class="btn btn-action-reply" data-action-type="showComments" data-count="0">回复</a>
+
+    </div>
+
+    <div class="others">
+      <div class="comments">
+        <div class="comments-items"></div>
+        <a href="javascript:void(0);" class="btn" data-action-type="showComments" style="display: none;">加载更多</a>
+          <span class="pl" align="right"><a class="j a_show_login" href="https://www.douban.com/accounts/register?reason=comment">&gt; 我来回复</a></span>
+      </div>
+    </div>
+  </div>
+
+  
+
+  
+
+    </div>
+  </div>
+
+        
+  <div id="item1731580" class="doulist-item" >
+    <div class="mod">
+      
+  <div class="hd">
+      <span class="pos">12</span>
+  </div>
+
+      
+  
+  
+  <div class="bd doulist-subject">
+    
+
+
+
+    <div class="source">
+      来自：豆瓣电影
+    </div>
+    
+    <div class="post">
+      <a href="https://movie.douban.com/subject/1291936/" target="_blank">
+        <img width="100" src="https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1910922395.jpg"/>
+      </a>
+    </div>
+    <div class="title">
+      <a href="https://movie.douban.com/subject/1291936/" target="_blank">
+        攻壳机动队 攻殻機動隊
+      </a>
+    </div>
+    
+      <div class="rating">
+          <span class="allstar45"></span>
+          <span class="rating_nums">8.9</span>
+          <span>(63687人评价)</span>
+      </div>
+    <div class="abstract">
+      
+          导演: 押井守
+            <br />
+          主演: 田中敦子 / 大塚明夫 / 山寺宏一
+            <br />
+          类型: 动作 / 科幻 / 动画
+            <br />
+          制片国家/地区: 日本
+            <br />
+          年份: 1995
+    </div>
+  </div>
+
+
+      
+  
+  <div class="ft">
+    <div class="comment-item content" data-cid="1731580">
+      <blockquote class="comment">
+        <span>评语：</span>8.9
+
+(30554人评价) 
+      </blockquote>
+    </div>
+
+    <div class="actions">
+
+      <time class="time">
+  <span title="2009-04-04 09:10:13">
+    2009年4月4日
+  </span>
+</time>
+
+        <a href="javascript: void 0;" class="btn btn-like j a_show_login" data-action-type="like">赞</a>
+        <span class="count like-count" data-count="6">(6)</span>
+
+      <a href="javascript: void 0;" class="btn btn-action-reply" data-action-type="showComments" data-count="0">回复</a>
+
+    </div>
+
+    <div class="others">
+      <div class="comments">
+        <div class="comments-items"></div>
+        <a href="javascript:void(0);" class="btn" data-action-type="showComments" style="display: none;">加载更多</a>
+          <span class="pl" align="right"><a class="j a_show_login" href="https://www.douban.com/accounts/register?reason=comment">&gt; 我来回复</a></span>
+      </div>
+    </div>
+  </div>
+
+  
+
+  
+
+    </div>
+  </div>
+
+        
+  <div id="item1731579" class="doulist-item" >
+    <div class="mod">
+      
+  <div class="hd">
+      <span class="pos">13</span>
+  </div>
+
+      
+  
+  
+  <div class="bd doulist-subject">
+    
+
+
+
+    <div class="source">
+      来自：豆瓣电影
+    </div>
+    
+    <div class="post">
+      <a href="https://movie.douban.com/subject/1477916/" target="_blank">
+        <img width="100" src="https://img3.doubanio.com/view/photo/s_ratio_poster/public/p453762724.jpg"/>
+      </a>
+    </div>
+    <div class="title">
+      <a href="https://movie.douban.com/subject/1477916/" target="_blank">
+        心理游戏 マインド・ゲーム
+      </a>
+    </div>
+    
+      <div class="rating">
+          <span class="allstar45"></span>
+          <span class="rating_nums">8.9</span>
+          <span>(17900人评价)</span>
+      </div>
+    <div class="abstract">
+      
+          导演: 汤浅政明
+            <br />
+          主演: 今田耕司 / 藤井隆 / 山口智充
+            <br />
+          类型: 动画 / 冒险 / 喜剧 / 悬疑
+            <br />
+          制片国家/地区: 日本
+            <br />
+          年份: 2004
+    </div>
+  </div>
+
+
+      
+  
+  <div class="ft">
+    <div class="comment-item content" data-cid="1731579">
+      <blockquote class="comment">
+        <span>评语：</span>8.9 (9575人评价) 
+      </blockquote>
+    </div>
+
+    <div class="actions">
+
+      <time class="time">
+  <span title="2009-04-04 09:51:54">
+    2009年4月4日
+  </span>
+</time>
+
+        <a href="javascript: void 0;" class="btn btn-like j a_show_login" data-action-type="like">赞</a>
+        <span class="count like-count" data-count="5">(5)</span>
+
+      <a href="javascript: void 0;" class="btn btn-action-reply" data-action-type="showComments" data-count="0">回复</a>
+
+    </div>
+
+    <div class="others">
+      <div class="comments">
+        <div class="comments-items"></div>
+        <a href="javascript:void(0);" class="btn" data-action-type="showComments" style="display: none;">加载更多</a>
+          <span class="pl" align="right"><a class="j a_show_login" href="https://www.douban.com/accounts/register?reason=comment">&gt; 我来回复</a></span>
+      </div>
+    </div>
+  </div>
+
+  
+
+  
+
+    </div>
+  </div>
+
+        
+  <div id="item1731578" class="doulist-item" >
+    <div class="mod">
+      
+  <div class="hd">
+      <span class="pos">14</span>
+  </div>
+
+      
+  
+  
+  <div class="bd doulist-subject">
+    
+
+
+
+    <div class="source">
+      来自：豆瓣电影
+    </div>
+    
+    <div class="post">
+      <a href="https://movie.douban.com/subject/3142101/" target="_blank">
+        <img width="100" src="https://img3.doubanio.com/view/photo/s_ratio_poster/public/p456918283.jpg"/>
+      </a>
+    </div>
+    <div class="title">
+      <a href="https://movie.douban.com/subject/3142101/" target="_blank">
+        攻壳机动队2.0 攻殻機動隊2.0
+      </a>
+    </div>
+    
+      <div class="rating">
+          <span class="allstar45"></span>
+          <span class="rating_nums">8.9</span>
+          <span>(11529人评价)</span>
+      </div>
+    <div class="abstract">
+      
+          导演: 押井守
+            <br />
+          主演: 田中敦子 / 大塚明夫 / 山寺宏一
+            <br />
+          类型: 动作 / 科幻 / 动画
+            <br />
+          制片国家/地区: 日本
+            <br />
+          年份: 2008
+    </div>
+  </div>
+
+
+      
+  
+  <div class="ft">
+    <div class="comment-item content" data-cid="1731578">
+      <blockquote class="comment">
+        <span>评语：</span>8.9
+
+(7565人评价) 
+      </blockquote>
+    </div>
+
+    <div class="actions">
+
+      <time class="time">
+  <span title="2009-06-28 15:20:15">
+    2009年6月28日
+  </span>
+</time>
+
+        <a href="javascript: void 0;" class="btn btn-like j a_show_login" data-action-type="like">赞</a>
+        <span class="count like-count" data-count="2">(2)</span>
+
+      <a href="javascript: void 0;" class="btn btn-action-reply" data-action-type="showComments" data-count="0">回复</a>
+
+    </div>
+
+    <div class="others">
+      <div class="comments">
+        <div class="comments-items"></div>
+        <a href="javascript:void(0);" class="btn" data-action-type="showComments" style="display: none;">加载更多</a>
+          <span class="pl" align="right"><a class="j a_show_login" href="https://www.douban.com/accounts/register?reason=comment">&gt; 我来回复</a></span>
+      </div>
+    </div>
+  </div>
+
+  
+
+  
+
+    </div>
+  </div>
+
+        
+  <div id="item1731577" class="doulist-item" >
+    <div class="mod">
+      
+  <div class="hd">
+      <span class="pos">15</span>
+  </div>
+
+      
+  
+  
+  <div class="bd doulist-subject">
+    
+
+
+
+    <div class="source">
+      来自：豆瓣电影
+    </div>
+    
+    <div class="post">
+      <a href="https://movie.douban.com/subject/1460341/" target="_blank">
+        <img width="100" src="https://img3.doubanio.com/view/photo/s_ratio_poster/public/p453890966.jpg"/>
+      </a>
+    </div>
+    <div class="title">
+      <a href="https://movie.douban.com/subject/1460341/" target="_blank">
+        佛兰德斯的狗 フランダースの犬
+      </a>
+    </div>
+    
+      <div class="rating">
+          <span class="allstar45"></span>
+          <span class="rating_nums">8.9</span>
+          <span>(8317人评价)</span>
+      </div>
+    <div class="abstract">
+      
+          导演: 黑田昌郎 Yoshio Kuroda
+            <br />
+          主演: Brady Bluhm / Debi Derryberry / 罗伯特·劳吉亚
+            <br />
+          类型: 动画 / 剧情 / 爱情
+            <br />
+          制片国家/地区: 日本/美国
+            <br />
+          年份: 1997
+    </div>
+  </div>
+
+
+      
+  
+  <div class="ft">
+    <div class="comment-item content" data-cid="1731577">
+      <blockquote class="comment">
+        <span>评语：</span>8.9
+
+(6655人评价) 
+      </blockquote>
+    </div>
+
+    <div class="actions">
+
+      <time class="time">
+  <span title="2009-03-30 06:14:31">
+    2009年3月30日
+  </span>
+</time>
+
+        <a href="javascript: void 0;" class="btn btn-like j a_show_login" data-action-type="like">赞</a>
+        <span class="count like-count" data-count="1">(1)</span>
+
+      <a href="javascript: void 0;" class="btn btn-action-reply" data-action-type="showComments" data-count="0">回复</a>
+
+    </div>
+
+    <div class="others">
+      <div class="comments">
+        <div class="comments-items"></div>
+        <a href="javascript:void(0);" class="btn" data-action-type="showComments" style="display: none;">加载更多</a>
+          <span class="pl" align="right"><a class="j a_show_login" href="https://www.douban.com/accounts/register?reason=comment">&gt; 我来回复</a></span>
+      </div>
+    </div>
+  </div>
+
+  
+
+  
+
+    </div>
+  </div>
+
+        
+  <div id="item1731576" class="doulist-item" >
+    <div class="mod">
+      
+  <div class="hd">
+      <span class="pos">16</span>
+  </div>
+
+      
+  
+  
+  <div class="bd doulist-subject">
+    
+
+
+
+    <div class="source">
+      来自：豆瓣电影
+    </div>
+    
+    <div class="post">
+      <a href="https://movie.douban.com/subject/1308807/" target="_blank">
+        <img width="100" src="https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2174346180.jpg"/>
+      </a>
+    </div>
+    <div class="title">
+      <a href="https://movie.douban.com/subject/1308807/" target="_blank">
+        哈尔的移动城堡 ハウルの動く城
+      </a>
+    </div>
+    
+      <div class="rating">
+          <span class="allstar45"></span>
+          <span class="rating_nums">8.9</span>
+          <span>(393215人评价)</span>
+      </div>
+    <div class="abstract">
+      
+          导演: 宫崎骏
+            <br />
+          主演: 倍赏千惠子 / 木村拓哉 / 美轮明宏
+            <br />
+          类型: 动画 / 奇幻 / 冒险
+            <br />
+          制片国家/地区: 日本
+            <br />
+          年份: 2004
+    </div>
+  </div>
+
+
+      
+  
+  <div class="ft">
+    <div class="comment-item content" data-cid="1731576">
+      <blockquote class="comment">
+        <span>评语：</span>8.8
+
+(234905人评价) 
+      </blockquote>
+    </div>
+
+    <div class="actions">
+
+      <time class="time">
+  <span title="2009-06-21 11:40:21">
+    2009年6月21日
+  </span>
+</time>
+
+        <a href="javascript: void 0;" class="btn btn-like j a_show_login" data-action-type="like">赞</a>
+        <span class="count like-count" data-count="16">(16)</span>
+
+      <a href="javascript: void 0;" class="btn btn-action-reply" data-action-type="showComments" data-count="0">回复</a>
+
+    </div>
+
+    <div class="others">
+      <div class="comments">
+        <div class="comments-items"></div>
+        <a href="javascript:void(0);" class="btn" data-action-type="showComments" style="display: none;">加载更多</a>
+          <span class="pl" align="right"><a class="j a_show_login" href="https://www.douban.com/accounts/register?reason=comment">&gt; 我来回复</a></span>
+      </div>
+    </div>
+  </div>
+
+  
+
+  
+
+    </div>
+  </div>
+
+        
+  <div id="item1731575" class="doulist-item" >
+    <div class="mod">
+      
+  <div class="hd">
+      <span class="pos">17</span>
+  </div>
+
+      
+  
+  
+  <div class="bd doulist-subject">
+    
+
+
+
+    <div class="source">
+      来自：豆瓣电影
+    </div>
+    
+    <div class="post">
+      <a href="https://movie.douban.com/subject/1301753/" target="_blank">
+        <img width="100" src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p726659067.jpg"/>
+      </a>
+    </div>
+    <div class="title">
+      <a href="https://movie.douban.com/subject/1301753/" target="_blank">
+        狮子王 The Lion King
+      </a>
+    </div>
+    
+      <div class="rating">
+          <span class="allstar45"></span>
+          <span class="rating_nums">8.9</span>
+          <span>(309104人评价)</span>
+      </div>
+    <div class="abstract">
+      
+          导演: 罗杰·阿勒斯 / 罗伯·明可夫
+            <br />
+          主演: 乔纳森·泰勒·托马斯 / 马修·布罗德里克 / 杰瑞米·艾恩斯
+            <br />
+          类型: 剧情 / 动画 / 冒险 / 歌舞 / 家庭
+            <br />
+          制片国家/地区: 美国
+            <br />
+          年份: 1994
+    </div>
+  </div>
+
+
+      
+  
+  <div class="ft">
+    <div class="comment-item content" data-cid="1731575">
+      <blockquote class="comment">
+        <span>评语：</span>8.8
+
+(197133人评价) 
+      </blockquote>
+    </div>
+
+    <div class="actions">
+
+      <time class="time">
+  <span title="2009-04-07 06:20:21">
+    2009年4月7日
+  </span>
+</time>
+
+        <a href="javascript: void 0;" class="btn btn-like j a_show_login" data-action-type="like">赞</a>
+        <span class="count like-count" data-count="11">(11)</span>
+
+      <a href="javascript: void 0;" class="btn btn-action-reply" data-action-type="showComments" data-count="0">回复</a>
+
+    </div>
+
+    <div class="others">
+      <div class="comments">
+        <div class="comments-items"></div>
+        <a href="javascript:void(0);" class="btn" data-action-type="showComments" style="display: none;">加载更多</a>
+          <span class="pl" align="right"><a class="j a_show_login" href="https://www.douban.com/accounts/register?reason=comment">&gt; 我来回复</a></span>
+      </div>
+    </div>
+  </div>
+
+  
+
+  
+
+    </div>
+  </div>
+
+        
+  <div id="item1731574" class="doulist-item" >
+    <div class="mod">
+      
+  <div class="hd">
+      <span class="pos">18</span>
+  </div>
+
+      
+  
+  
+  <div class="bd doulist-subject">
+    
+
+
+
+    <div class="source">
+      来自：豆瓣电影
+    </div>
+    
+    <div class="post">
+      <a href="https://movie.douban.com/subject/1293318/" target="_blank">
+        <img width="100" src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1157334208.jpg"/>
+      </a>
+    </div>
+    <div class="title">
+      <a href="https://movie.douban.com/subject/1293318/" target="_blank">
+        萤火虫之墓 火垂るの墓
+      </a>
+    </div>
+    
+      <div class="rating">
+          <span class="allstar45"></span>
+          <span class="rating_nums">8.7</span>
+          <span>(217238人评价)</span>
+      </div>
+    <div class="abstract">
+      
+          导演: 高畑勋
+            <br />
+          主演: 辰己努 / 白石绫乃 / 志乃原良子
+            <br />
+          类型: 动画 / 剧情 / 战争
+            <br />
+          制片国家/地区: 日本
+            <br />
+          年份: 1988
+    </div>
+  </div>
+
+
+      
+  
+  <div class="ft">
+    <div class="comment-item content" data-cid="1731574">
+      <blockquote class="comment">
+        <span>评语：</span>8.8
+
+(146532人评价) 
+      </blockquote>
+    </div>
+
+    <div class="actions">
+
+      <time class="time">
+  <span title="2009-04-04 08:06:22">
+    2009年4月4日
+  </span>
+</time>
+
+        <a href="javascript: void 0;" class="btn btn-like j a_show_login" data-action-type="like">赞</a>
+        <span class="count like-count" data-count="13">(13)</span>
+
+      <a href="javascript: void 0;" class="btn btn-action-reply" data-action-type="showComments" data-count="0">回复</a>
+
+    </div>
+
+    <div class="others">
+      <div class="comments">
+        <div class="comments-items"></div>
+        <a href="javascript:void(0);" class="btn" data-action-type="showComments" style="display: none;">加载更多</a>
+          <span class="pl" align="right"><a class="j a_show_login" href="https://www.douban.com/accounts/register?reason=comment">&gt; 我来回复</a></span>
+      </div>
+    </div>
+  </div>
+
+  
+
+  
+
+    </div>
+  </div>
+
+        
+  <div id="item1731573" class="doulist-item" >
+    <div class="mod">
+      
+  <div class="hd">
+      <span class="pos">19</span>
+  </div>
+
+      
+  
+  
+  <div class="bd doulist-subject">
+    
+
+
+
+    <div class="source">
+      来自：豆瓣电影
+    </div>
+    
+    <div class="post">
+      <a href="https://movie.douban.com/subject/1858711/" target="_blank">
+        <img width="100" src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1283675359.jpg"/>
+      </a>
+    </div>
+    <div class="title">
+      <a href="https://movie.douban.com/subject/1858711/" target="_blank">
+        玩具总动员3 Toy Story 3
+      </a>
+    </div>
+    
+      <div class="rating">
+          <span class="allstar45"></span>
+          <span class="rating_nums">8.8</span>
+          <span>(201597人评价)</span>
+      </div>
+    <div class="abstract">
+      
+          导演: 李·昂克里奇
+            <br />
+          主演: 汤姆·汉克斯 / 蒂姆·艾伦 / 琼·库萨克
+            <br />
+          类型: 喜剧 / 动画 / 奇幻 / 冒险
+            <br />
+          制片国家/地区: 美国
+            <br />
+          年份: 2010
+    </div>
+  </div>
+
+
+      
+  
+  <div class="ft">
+    <div class="comment-item content" data-cid="1731573">
+      <blockquote class="comment">
+        <span>评语：</span>8.8
+
+(144492人评价) 
+      </blockquote>
+    </div>
+
+    <div class="actions">
+
+      <time class="time">
+  <span title="2010-06-24 03:23:57">
+    2010年6月24日
+  </span>
+</time>
+
+        <a href="javascript: void 0;" class="btn btn-like j a_show_login" data-action-type="like">赞</a>
+        <span class="count like-count" data-count="7">(7)</span>
+
+      <a href="javascript: void 0;" class="btn btn-action-reply" data-action-type="showComments" data-count="2">2回复</a>
+
+    </div>
+
+    <div class="others">
+      <div class="comments">
+        <div class="comments-items"></div>
+        <a href="javascript:void(0);" class="btn" data-action-type="showComments" style="display: none;">加载更多</a>
+          <span class="pl" align="right"><a class="j a_show_login" href="https://www.douban.com/accounts/register?reason=comment">&gt; 我来回复</a></span>
+      </div>
+    </div>
+  </div>
+
+  
+
+  
+
+    </div>
+  </div>
+
+        
+  <div id="item1731572" class="doulist-item" >
+    <div class="mod">
+      
+  <div class="hd">
+      <span class="pos">20</span>
+  </div>
+
+      
+  
+  
+  <div class="bd doulist-subject">
+    
+
+
+
+    <div class="source">
+      来自：豆瓣电影
+    </div>
+    
+    <div class="post">
+      <a href="https://movie.douban.com/subject/4848115/" target="_blank">
+        <img width="100" src="https://img3.doubanio.com/view/photo/s_ratio_poster/public/p709670262.jpg"/>
+      </a>
+    </div>
+    <div class="title">
+      <a href="https://movie.douban.com/subject/4848115/" target="_blank">
+        你看起来好像很好吃 おまえうまそうだな
+      </a>
+    </div>
+    
+      <div class="rating">
+          <span class="allstar45"></span>
+          <span class="rating_nums">8.8</span>
+          <span>(166995人评价)</span>
+      </div>
+    <div class="abstract">
+      
+          导演: 藤森雅也
+            <br />
+          主演: 山口胜平 / 爱河里花子 / 加藤清史郎
+            <br />
+          类型: 剧情 / 动画 / 儿童
+            <br />
+          制片国家/地区: 日本
+            <br />
+          年份: 2010
+    </div>
+  </div>
+
+
+      
+  
+  <div class="ft">
+    <div class="comment-item content" data-cid="1731572">
+      <blockquote class="comment">
+        <span>评语：</span>8.8
+
+(130693人评价) 
+      </blockquote>
+    </div>
+
+    <div class="actions">
+
+      <time class="time">
+  <span title="2011-05-02 01:54:18">
+    2011年5月2日
+  </span>
+</time>
+
+        <a href="javascript: void 0;" class="btn btn-like j a_show_login" data-action-type="like">赞</a>
+        <span class="count like-count" data-count="9">(9)</span>
+
+      <a href="javascript: void 0;" class="btn btn-action-reply" data-action-type="showComments" data-count="0">回复</a>
+
+    </div>
+
+    <div class="others">
+      <div class="comments">
+        <div class="comments-items"></div>
+        <a href="javascript:void(0);" class="btn" data-action-type="showComments" style="display: none;">加载更多</a>
+          <span class="pl" align="right"><a class="j a_show_login" href="https://www.douban.com/accounts/register?reason=comment">&gt; 我来回复</a></span>
+      </div>
+    </div>
+  </div>
+
+  
+
+  
+
+    </div>
+  </div>
+
+        
+  <div id="item1731571" class="doulist-item" >
+    <div class="mod">
+      
+  <div class="hd">
+      <span class="pos">21</span>
+  </div>
+
+      
+  
+  
+  <div class="bd doulist-subject">
+    
+
+
+
+    <div class="source">
+      来自：豆瓣电影
+    </div>
+    
+    <div class="post">
+      <a href="https://movie.douban.com/subject/1291585/" target="_blank">
+        <img width="100" src="https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1917567652.jpg"/>
+      </a>
+    </div>
+    <div class="title">
+      <a href="https://movie.douban.com/subject/1291585/" target="_blank">
+        风之谷 風の谷のナウシカ
+      </a>
+    </div>
+    
+      <div class="rating">
+          <span class="allstar45"></span>
+          <span class="rating_nums">8.8</span>
+          <span>(188564人评价)</span>
+      </div>
+    <div class="abstract">
+      
+          导演: 宫崎骏
+            <br />
+          主演: 岛本须美 / 松田洋治 / 榊原良子
+            <br />
+          类型: 科幻 / 动画 / 奇幻 / 冒险
+            <br />
+          制片国家/地区: 日本
+            <br />
+          年份: 1984
+    </div>
+  </div>
+
+
+      
+  
+  <div class="ft">
+    <div class="comment-item content" data-cid="1731571">
+      <blockquote class="comment">
+        <span>评语：</span>8.8
+
+(121361人评价) 
+      </blockquote>
+    </div>
+
+    <div class="actions">
+
+      <time class="time">
+  <span title="2009-04-04 08:07:16">
+    2009年4月4日
+  </span>
+</time>
+
+        <a href="javascript: void 0;" class="btn btn-like j a_show_login" data-action-type="like">赞</a>
+        <span class="count like-count" data-count="9">(9)</span>
+
+      <a href="javascript: void 0;" class="btn btn-action-reply" data-action-type="showComments" data-count="0">回复</a>
+
+    </div>
+
+    <div class="others">
+      <div class="comments">
+        <div class="comments-items"></div>
+        <a href="javascript:void(0);" class="btn" data-action-type="showComments" style="display: none;">加载更多</a>
+          <span class="pl" align="right"><a class="j a_show_login" href="https://www.douban.com/accounts/register?reason=comment">&gt; 我来回复</a></span>
+      </div>
+    </div>
+  </div>
+
+  
+
+  
+
+    </div>
+  </div>
+
+        
+  <div id="item1731570" class="doulist-item" >
+    <div class="mod">
+      
+  <div class="hd">
+      <span class="pos">22</span>
+  </div>
+
+      
+  
+  
+  <div class="bd doulist-subject">
+    
+
+
+
+    <div class="source">
+      来自：豆瓣电影
+    </div>
+    
+    <div class="post">
+      <a href="https://movie.douban.com/subject/1297052/" target="_blank">
+        <img width="100" src="https://img3.doubanio.com/view/photo/s_ratio_poster/public/p456692072.jpg"/>
+      </a>
+    </div>
+    <div class="title">
+      <a href="https://movie.douban.com/subject/1297052/" target="_blank">
+        侧耳倾听 耳をすませば
+      </a>
+    </div>
+    
+      <div class="rating">
+          <span class="allstar45"></span>
+          <span class="rating_nums">8.8</span>
+          <span>(181748人评价)</span>
+      </div>
+    <div class="abstract">
+      
+          导演: 近藤喜文
+            <br />
+          主演: 本名阳子 / 小林桂树 / 高山南
+            <br />
+          类型: 剧情 / 爱情 / 动画 / 音乐
+            <br />
+          制片国家/地区: 日本
+            <br />
+          年份: 1995
+    </div>
+  </div>
+
+
+      
+  
+  <div class="ft">
+    <div class="comment-item content" data-cid="1731570">
+      <blockquote class="comment">
+        <span>评语：</span>8.8
+
+(109793人评价) 
+      </blockquote>
+    </div>
+
+    <div class="actions">
+
+      <time class="time">
+  <span title="2009-04-04 08:07:31">
+    2009年4月4日
+  </span>
+</time>
+
+        <a href="javascript: void 0;" class="btn btn-like j a_show_login" data-action-type="like">赞</a>
+        <span class="count like-count" data-count="15">(15)</span>
+
+      <a href="javascript: void 0;" class="btn btn-action-reply" data-action-type="showComments" data-count="0">回复</a>
+
+    </div>
+
+    <div class="others">
+      <div class="comments">
+        <div class="comments-items"></div>
+        <a href="javascript:void(0);" class="btn" data-action-type="showComments" style="display: none;">加载更多</a>
+          <span class="pl" align="right"><a class="j a_show_login" href="https://www.douban.com/accounts/register?reason=comment">&gt; 我来回复</a></span>
+      </div>
+    </div>
+  </div>
+
+  
+
+  
+
+    </div>
+  </div>
+
+        
+  <div id="item1731569" class="doulist-item" >
+    <div class="mod">
+      
+  <div class="hd">
+      <span class="pos">23</span>
+  </div>
+
+      
+  
+  
+  <div class="bd doulist-subject">
+    
+
+
+
+    <div class="source">
+      来自：豆瓣电影
+    </div>
+    
+    <div class="post">
+      <a href="https://movie.douban.com/subject/5989818/" target="_blank">
+        <img width="100" src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1272904657.jpg"/>
+      </a>
+    </div>
+    <div class="title">
+      <a href="https://movie.douban.com/subject/5989818/" target="_blank">
+        萤火之森 蛍火の杜へ
+      </a>
+    </div>
+    
+      <div class="rating">
+          <span class="allstar45"></span>
+          <span class="rating_nums">8.7</span>
+          <span>(168834人评价)</span>
+      </div>
+    <div class="abstract">
+      
+          导演: 大森贵弘
+            <br />
+          主演: 佐仓绫音 / 内山昂辉
+            <br />
+          类型: 剧情 / 爱情 / 动画 / 奇幻
+            <br />
+          制片国家/地区: 日本
+            <br />
+          年份: 2011
+    </div>
+  </div>
+
+
+      
+  
+  <div class="ft">
+    <div class="comment-item content" data-cid="1731569">
+      <blockquote class="comment">
+        <span>评语：</span>8.8
+
+(86257人评价) 
+      </blockquote>
+    </div>
+
+    <div class="actions">
+
+      <time class="time">
+  <span title="2012-03-12 02:12:38">
+    2012年3月12日
+  </span>
+</time>
+
+        <a href="javascript: void 0;" class="btn btn-like j a_show_login" data-action-type="like">赞</a>
+        <span class="count like-count" data-count="8">(8)</span>
+
+      <a href="javascript: void 0;" class="btn btn-action-reply" data-action-type="showComments" data-count="0">回复</a>
+
+    </div>
+
+    <div class="others">
+      <div class="comments">
+        <div class="comments-items"></div>
+        <a href="javascript:void(0);" class="btn" data-action-type="showComments" style="display: none;">加载更多</a>
+          <span class="pl" align="right"><a class="j a_show_login" href="https://www.douban.com/accounts/register?reason=comment">&gt; 我来回复</a></span>
+      </div>
+    </div>
+  </div>
+
+  
+
+  
+
+    </div>
+  </div>
+
+        
+  <div id="item1731568" class="doulist-item" >
+    <div class="mod">
+      
+  <div class="hd">
+      <span class="pos">24</span>
+  </div>
+
+      
+  
+  
+  <div class="bd doulist-subject">
+    
+
+
+
+    <div class="source">
+      来自：豆瓣电影
+    </div>
+    
+    <div class="post">
+      <a href="https://movie.douban.com/subject/1291565/" target="_blank">
+        <img width="100" src="https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1910831922.jpg"/>
+      </a>
+    </div>
+    <div class="title">
+      <a href="https://movie.douban.com/subject/1291565/" target="_blank">
+        疯狂约会美丽都 Les triplettes de Belleville
+      </a>
+    </div>
+    
+      <div class="rating">
+          <span class="allstar45"></span>
+          <span class="rating_nums">8.7</span>
+          <span>(53774人评价)</span>
+      </div>
+    <div class="abstract">
+      
+          导演: 希尔万·肖默
+            <br />
+          主演: Béatrice Bonifassi / 莉娜·布德罗 / Michèle Caucheteux
+            <br />
+          类型: 喜剧 / 动画
+            <br />
+          制片国家/地区: 法国/比利时/加拿大/英国/拉脱维亚
+            <br />
+          年份: 2003
+    </div>
+  </div>
+
+
+      
+  
+  <div class="ft">
+    <div class="comment-item content" data-cid="1731568">
+      <blockquote class="comment">
+        <span>评语：</span>8.8
+
+(40422人评价) 
+      </blockquote>
+    </div>
+
+    <div class="actions">
+
+      <time class="time">
+  <span title="2009-04-04 07:49:10">
+    2009年4月4日
+  </span>
+</time>
+
+        <a href="javascript: void 0;" class="btn btn-like j a_show_login" data-action-type="like">赞</a>
+        <span class="count like-count" data-count="4">(4)</span>
+
+      <a href="javascript: void 0;" class="btn btn-action-reply" data-action-type="showComments" data-count="1">1回复</a>
+
+    </div>
+
+    <div class="others">
+      <div class="comments">
+        <div class="comments-items"></div>
+        <a href="javascript:void(0);" class="btn" data-action-type="showComments" style="display: none;">加载更多</a>
+          <span class="pl" align="right"><a class="j a_show_login" href="https://www.douban.com/accounts/register?reason=comment">&gt; 我来回复</a></span>
+      </div>
+    </div>
+  </div>
+
+  
+
+  
+
+    </div>
+  </div>
+
+        
+  <div id="item1731567" class="doulist-item" >
+    <div class="mod">
+      
+  <div class="hd">
+      <span class="pos">25</span>
+  </div>
+
+      
+  
+  
+  <div class="bd doulist-subject">
+    
+
+
+
+    <div class="source">
+      来自：豆瓣电影
+    </div>
+    
+    <div class="post">
+      <a href="https://movie.douban.com/subject/6518638/" target="_blank">
+        <img width="100" src="https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1726788921.jpg"/>
+      </a>
+    </div>
+    <div class="title">
+      <a href="https://movie.douban.com/subject/6518638/" target="_blank">
+        艾特熊和赛娜鼠 Ernest et Célestine
+      </a>
+    </div>
+    
+      <div class="rating">
+          <span class="allstar45"></span>
+          <span class="rating_nums">8.8</span>
+          <span>(25737人评价)</span>
+      </div>
+    <div class="abstract">
+      
+          导演: 斯特凡·奥比尔 / 文森特·帕塔尔 / 本杰明·雷内
+            <br />
+          主演: 朗贝尔·维尔森 / 波利娜·布伦纳 / 安妮-玛丽·卢珀
+            <br />
+          类型: 动画
+            <br />
+          制片国家/地区: 法国
+            <br />
+          年份: 2012
+    </div>
+  </div>
+
+
+      
+  
+  <div class="ft">
+    <div class="comment-item content" data-cid="1731567">
+      <blockquote class="comment">
+        <span>评语：</span>8.8
+
+(14533人评价) 
+      </blockquote>
+    </div>
+
+    <div class="actions">
+
+      <time class="time">
+  <span title="2013-02-23 08:52:38">
+    2013年2月23日
+  </span>
+</time>
+
+        <a href="javascript: void 0;" class="btn btn-like j a_show_login" data-action-type="like">赞</a>
+        <span class="count like-count" data-count="2">(2)</span>
+
+      <a href="javascript: void 0;" class="btn btn-action-reply" data-action-type="showComments" data-count="0">回复</a>
+
+    </div>
+
+    <div class="others">
+      <div class="comments">
+        <div class="comments-items"></div>
+        <a href="javascript:void(0);" class="btn" data-action-type="showComments" style="display: none;">加载更多</a>
+          <span class="pl" align="right"><a class="j a_show_login" href="https://www.douban.com/accounts/register?reason=comment">&gt; 我来回复</a></span>
+      </div>
+    </div>
+  </div>
+
+  
+
+  
+
+    </div>
+  </div>
+
+
+
+  
+  <script>
+    /**
+     * @form 是表单的 jquery 对象
+     * @data 是需要验证的字符串
+     * @callback 是验证有敏感词时的回调函数
+     */
+    function checkBannedKeyword(form, data, callback){
+      $.post_withck('/j/censor', data, function(ret){
+        if (ret.ban == true) {
+           callback();
+           return false;
+        }
+        form.append('<input type="hidden" name="dl_submit" value="更新评语" />');
+        form.submit();
+      }, 'json');
+    }
+
+    $('#dl_submit').click(function(e){
+      e.preventDefault();
+      var $textarea = $('form.form-desc textarea[name=dl_comment]'),
+        data = {key: $textarea.val()};
+
+        checkBannedKeyword($('form.form-desc'), data, function(){
+          $('textarea[name=dl_comment]').parent().append($('<div style="width:360px;color:#ff3300;padding-top:10px;">你的评语中有被禁止的内容</div>'));
+      });
+    });
+  </script>
+
+  
+    
+    
+
+    
+        <div class="paginator">
+        <span class="prev">
+            &lt;前页
+        </span>
+        
+        
+
+                <span class="thispage" data-total-page="11">1</span>
+                
+            <a href="https://www.douban.com/doulist/223781/?start=25&amp;sort=seq&amp;sub_type=" >2</a>
+        
+                
+            <a href="https://www.douban.com/doulist/223781/?start=50&amp;sort=seq&amp;sub_type=" >3</a>
+        
+                
+            <a href="https://www.douban.com/doulist/223781/?start=75&amp;sort=seq&amp;sub_type=" >4</a>
+        
+                
+            <a href="https://www.douban.com/doulist/223781/?start=100&amp;sort=seq&amp;sub_type=" >5</a>
+        
+                
+            <a href="https://www.douban.com/doulist/223781/?start=125&amp;sort=seq&amp;sub_type=" >6</a>
+        
+                
+            <a href="https://www.douban.com/doulist/223781/?start=150&amp;sort=seq&amp;sub_type=" >7</a>
+        
+                
+            <a href="https://www.douban.com/doulist/223781/?start=175&amp;sort=seq&amp;sub_type=" >8</a>
+        
+                
+            <a href="https://www.douban.com/doulist/223781/?start=200&amp;sort=seq&amp;sub_type=" >9</a>
+        
+            <span class="break">...</span>
+                
+            <a href="https://www.douban.com/doulist/223781/?start=225&amp;sort=seq&amp;sub_type=" >10</a>
+        
+            <a href="https://www.douban.com/doulist/223781/?start=250&amp;sort=seq&amp;sub_type=" >11</a>
+        
+        <span class="next">
+            <link rel="next" href="https://www.douban.com/doulist/223781/?start=25&amp;sort=seq&amp;sub_type="/>
+            <a href="https://www.douban.com/doulist/223781/?start=25&amp;sort=seq&amp;sub_type=" >后页&gt;</a>
+        </span>
+
+        </div>
+
+
+
+
+
+
+        </div>
+        <div class="aside">
+                
+  
+
+
+
+
+  
+  <div class="doulist-tip mod">
+    
+    <h2>
+        什么是豆列
+            &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+    </h2>
+
+    <div class="intro">
+      <p>豆列是收集好东西的工具。</p>
+      <p>在网上看到喜欢的，无论它是否来自豆瓣，都可以收到你自己的豆列里，方便以后找到。</p>
+      <p>你还可以收藏感兴趣的豆列，看看其他人收集的好东西。</p>
+    </div>
+  </div>
+
+  
+    <!-- douban ad begin -->
+    <div id="dale_movie_doulist_top_right"></div>
+    <!-- douban ad end -->
+
+
+
+  
+    
+
+    <div class="tags">
+        
+    <h2>
+        这个豆列的标签
+            &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+    </h2>
+
+    </div>
+
+  
+    
+    <h2>
+        最新留言
+            &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+            <span class="pl">&nbsp;(
+                
+                    <a href="https://www.douban.com/doulist/223781/comments/" target="_self">全部</a>
+                ) </span>
+    </h2>
+
+    
+
+
+<ul class="comment-list">
+    
+    <li>
+        <a href="https://www.douban.com/people/37796090/" class="avatar"><img src="https://img1.doubanio.com/icon/u37796090-28.jpg" width="36" height="36" alt="好想成为大熊猫"/></a>
+      
+      <a href="https://www.douban.com/people/37796090/" class="lnk-people">好想成为大熊猫</a>
+      <span class="pl">  03-01 12:37</span>
+      <p>
+          <a href="https://www.douban.com/doulist/223781/comments/#1062076">你瓣林子大了什么鸟都有，这楼我算是见识了。哪怕为了反对你们无理取闹我都要喜欢日本动画下去了
+</a>
+      </p>
+    </li>
+    
+    <li>
+        <a href="https://www.douban.com/people/121335945/" class="avatar"><img src="https://img3.doubanio.com/icon/u121335945-3.jpg" width="36" height="36" alt="♬暮光♪"/></a>
+      
+      <a href="https://www.douban.com/people/121335945/" class="lnk-people">♬暮光♪</a>
+      <span class="pl">  2017-03-18 20:27</span>
+      <p>
+          <a href="https://www.douban.com/doulist/223781/comments/#1058283">天书奇谭</a>
+      </p>
+    </li>
+    
+    <li>
+      
+      <a href="https://www.douban.com/people/121335945/" class="lnk-people">♬暮光♪</a>
+      <span class="pl">  2017-03-18 20:26</span>
+      <p>
+          <a href="https://www.douban.com/doulist/223781/comments/#1058282">吹响，上低音号剧场版</a>
+      </p>
+    </li>
+    
+    <li>
+      
+      <a href="https://www.douban.com/people/121335945/" class="lnk-people">♬暮光♪</a>
+      <span class="pl">  2017-03-18 20:25</span>
+      <p>
+          <a href="https://www.douban.com/doulist/223781/comments/#1058281">玉子爱情故事，大圣归来，魔法少女姐妹优优与宁宁，小魔女学院，迪士尼的很多电影，花开伊吕坡剧场版，伤物语，心灵想要大声呼喊，声之形，在这世...</a>
+      </p>
+    </li>
+    
+    <li>
+        <a href="https://www.douban.com/people/143921675/" class="avatar"><img src="https://img3.doubanio.com/icon/u143921675-2.jpg" width="36" height="36" alt="朱迪霍普斯"/></a>
+      
+      <a href="https://www.douban.com/people/143921675/" class="lnk-people">朱迪霍普斯</a>
+      <span class="pl">  2016-04-20 18:13</span>
+      <p>
+          <a href="https://www.douban.com/doulist/223781/comments/#1053359">海洋之歌8.8分应该放第8位，楼主</a>
+      </p>
+    </li>
+</ul>
+
+
+  
+  
+
+      
+    <h2>
+        影志的其它豆列
+            &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+            <span class="pl">&nbsp;(
+                
+                    <a href="https://www.douban.com/people/tjz230/doulists/all" target="_self">全部</a>
+                ) </span>
+    </h2>
+
+
+  <div class="doulist-other">
+    <ul>
+        <li>
+	    <a href="https://www.douban.com/doulist/44998833/">2018终极期待</a>
+	        <span class="pl">&nbsp;(96人收藏)</span>
+	</li>
+        <li>
+	    <a href="https://www.douban.com/doulist/30299/">豆瓣电影【口碑榜】2018-02-24更新</a>
+	        <span class="pl">&nbsp;(83423人收藏)</span>
+	</li>
+        <li>
+	    <a href="https://www.douban.com/doulist/24213/">【容易忽视的好电影】</a>
+	        <span class="pl">&nbsp;(56204人收藏)</span>
+	</li>
+        <li>
+	    <a href="https://www.douban.com/doulist/44999011/">2019终极期待</a>
+	        <span class="pl">&nbsp;(31人收藏)</span>
+	</li>
+        <li>
+	    <a href="https://www.douban.com/doulist/222008/">【豆瓣高分短片】❶</a>
+	        <span class="pl">&nbsp;(43123人收藏)</span>
+	</li>
+    </ul>
+  </div>
+  <br />
+
+
+
+        </div>
+        <div class="extra">
+            
+  <div id="dale_doulist_bottom"></div>
+
+        </div>
+    </div>
+</div>
+
+        
+<div id="footer">
+    
+<span id="icp" class="fleft gray-link">
+    &copy; 2005－2018 douban.com, all rights reserved 北京豆网科技有限公司
+</span>
+
+<a href="https://www.douban.com/hnypt/variformcyst.py" style="display: none;"></a>
+
+<span class="fright">
+    <a href="https://www.douban.com/about">关于豆瓣</a>
+    · <a href="https://www.douban.com/jobs">在豆瓣工作</a>
+    · <a href="https://www.douban.com/about?topic=contactus">联系我们</a>
+    · <a href="https://www.douban.com/about?policy=disclaimer">免责声明</a>
+    
+    · <a href="https://help.douban.com/?app=main" target="_blank">帮助中心</a>
+    · <a href="https://www.douban.com/doubanapp/">移动应用</a>
+    · <a href="https://www.douban.com/partner/">豆瓣广告</a>
+</span>
+
+</div>
+
+    </div>
+    
+    
+
+    <script type="text/javascript">
+    Do.add('tagsug', { path: "https://img3.doubanio.com/f/shire/2f84846bba8a5352b5e9f10d3e724f8a869e1b24/js/lib/tagsug.js" });
+    Do('https://img3.doubanio.com/f/sns/66eacfeb645f09bee8be67b90ba8bdf9111b0273/js/sns/doulist/doulist_item.js', function(){
+      $(function(){var a=$(".doulist-item");a.find(".mod").each(function(c,f){var d=$(this),g=d.parent().attr("id").slice(4);var e=new DoulistItem($(this),g);e.init()});var b=location.hash;if(b){$(b).find(".btn-action-reply").click()}});
+    });
+  </script>
+    
+  <!-- douban ad begin -->
+  
+
+
+
+
+    
+<script type="text/javascript">
+    (function (global) {
+        var newNode = global.document.createElement('script'),
+            existingNode = global.document.getElementsByTagName('script')[0],
+            adSource = '//erebor.douban.com/',
+            userId = '',
+            browserId = 'q2mtjnXklmU',
+            criteria = '3:/doulist/223781/',
+            preview = '',
+            debug = false,
+            adSlots = ['dale_movie_doulist_top_right', 'dale_doulist_bottom'];
+
+        global.DoubanAdRequest = {src: adSource, uid: userId, bid: browserId, crtr: criteria, prv: preview, debug: debug};
+        global.DoubanAdSlots = (global.DoubanAdSlots || []).concat(adSlots);
+
+        newNode.setAttribute('type', 'text/javascript');
+        newNode.setAttribute('src', 'https://img3.doubanio.com/f/adjs/f886512b31842ce18a9450be3e80f90c23f25260/ad.release.js');
+        newNode.setAttribute('async', true);
+        existingNode.parentNode.insertBefore(newNode, existingNode);
+    })(this);
+</script>
+
+
+
+
+
+
+
+
+
+
+  <!-- douban ad end -->
+
+    
+    
+
+
+
+
+
+
+
+
+
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-5WP579" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-5WP579');</script>
+<!-- End Google Tag Manager -->
+
+
+<script type="text/javascript">
+var _paq = _paq || [];
+_paq.push(['trackPageView']);
+_paq.push(['enableLinkTracking']);
+(function() {
+    var p=(('https:' == document.location.protocol) ? 'https' : 'http'), u=p+'://fundin.douban.com/';
+    _paq.push(['setTrackerUrl', u+'piwik']);
+    _paq.push(['setSiteId', '100001']);
+    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+    g.type='text/javascript';
+    g.defer=true;
+    g.async=true;
+    g.src=p+'://img3.doubanio.com/dae/fundin/piwik.js';
+    s.parentNode.insertBefore(g,s);
+})();
+</script>
+
+<script type="text/javascript">
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-7019765-1']);
+_gaq.push(['_setCampNameKey', 'dcn']);
+_gaq.push(['_setCampSourceKey', 'dcs']);
+_gaq.push(['_setCampMediumKey', 'dcm']);
+_gaq.push(['_setCampTermKey', 'dct']);
+_gaq.push(['_setCampContentKey', 'dcc']);
+_gaq.push(['_addOrganic', 'baidu', 'word']);
+_gaq.push(['_addOrganic', 'soso', 'w']);
+_gaq.push(['_addOrganic', '3721', 'name']);
+_gaq.push(['_addOrganic', 'youdao', 'q']);
+_gaq.push(['_addOrganic', 'so.360.cn', 'q']);
+_gaq.push(['_addOrganic', 'vnet', 'kw']);
+_gaq.push(['_addOrganic', 'sogou', 'query']);
+_gaq.push(['_addIgnoredOrganic', '豆瓣']);
+_gaq.push(['_addIgnoredOrganic', 'douban']);
+_gaq.push(['_addIgnoredOrganic', '豆瓣网']);
+_gaq.push(['_addIgnoredOrganic', 'www.douban.com']);
+_gaq.push(['_setDomainName', '.douban.com']);
+
+
+    _gaq.push(['_setCustomVar', 1, 'responsive_view_mode', 'desktop', 3]);
+
+_gaq.push(['_trackPageview']);
+_gaq.push(['_trackPageLoadTime']);
+
+window._ga_init = function() {
+    var ga = document.createElement('script');
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    ga.setAttribute('async', 'true');
+    document.documentElement.firstChild.appendChild(ga);
+};
+if (window.addEventListener) {
+    window.addEventListener('load', _ga_init, false);
+} else {
+    window.attachEvent('onload', _ga_init);
 }
 </script>
+
+
+
+
+
+    <!-- daisy1d-docker-->
+
+  
+
+  <script>_SPLITTEST=''</script>
 </body>
+
 </html>
+
+
+
+<!DOCTYPE html>
+<html lang="zh-cmn-Hans" class="">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta name="renderer" content="webkit">
+    <meta name="referrer" content="always">
+    <title>爱乐之城 短评</title>
+    
+    <meta name="baidu-site-verification" content="cZdR4xxR7RxmM4zE" />
+    <meta http-equiv="Pragma" content="no-cache">
+    <meta http-equiv="Expires" content="Sun, 6 Mar 2005 01:00:00 GMT">
+    
+    <meta name="keywords" content="爱乐之城,La La Land,影讯,排片,放映时间,电影票价,在线购票"/>
+    <meta name="description" content="爱乐之城短评" />
+    <meta name="mobile-agent" content="format=html5; url=http://m.douban.com/movie/subject/25934014/comments"/>
+    <script type="text/javascript" src="https://img3.doubanio.com/f/shire/77323ae72a612bba8b65f845491513ff3329b1bb/js/do.js" data-cfg-autoload="false"></script>
+
+    <link rel="apple-touch-icon" href="https://img3.doubanio.com/f/movie/d59b2715fdea4968a450ee5f6c95c7d7a2030065/pics/movie/apple-touch-icon.png">
+    <link href="https://img3.doubanio.com/f/shire/bf61b1fa02f564a4a8f809da7c7179b883a56146/css/douban.css" rel="stylesheet" type="text/css">
+    <link href="https://img3.doubanio.com/f/shire/ae3f5a3e3085968370b1fc63afcecb22d3284848/css/separation/_all.css" rel="stylesheet" type="text/css">
+    <link href="https://img3.doubanio.com/f/movie/8864d3756094f5272d3c93e30ee2e324665855b0/css/movie/base/init.css" rel="stylesheet">
+    <script type="text/javascript">var _head_start = new Date();</script>
+    <script type="text/javascript" src="https://img3.doubanio.com/f/movie/0495cb173e298c28593766009c7b0a953246c5b5/js/movie/lib/jquery.js"></script>
+    <script type="text/javascript" src="https://img3.doubanio.com/f/shire/40e5fd47dadd542654d9421d954f5296266c2e25/js/douban.js"></script>
+    <script type="text/javascript" src="https://img3.doubanio.com/f/shire/0efdc63b77f895eaf85281fb0e44d435c6239a3f/js/separation/_all.js"></script>
+    
+    <style type="text/css"></style>
+    <style type="text/css">img { max-width: 100%; }</style>
+    <script type="text/javascript"></script>
+    <link rel="stylesheet" href="https://img3.doubanio.com/misc/mixed_static/3f8d2b8e2ed509ca.css">
+
+    <link rel="shortcut icon" href="https://img3.doubanio.com/favicon.ico" type="image/x-icon">
+</head>
+
+<body>
+  
+    <script type="text/javascript">var _body_start = new Date();</script>
+
+    
+    
+
+
+
+    <link href="//img3.doubanio.com/dae/accounts/resources/321e246/shire/bundle.css" rel="stylesheet" type="text/css">
+
+
+
+<div id="db-global-nav" class="global-nav">
+  <div class="bd">
+    
+<div class="top-nav-info">
+  <a href="https://www.douban.com/accounts/login?source=movie" class="nav-login" rel="nofollow">登录</a>
+  <a href="https://www.douban.com/accounts/register?source=movie" class="nav-register" rel="nofollow">注册</a>
+</div>
+
+
+    
+<div class="top-nav-doubanapp">
+  <a href="https://www.douban.com/doubanapp/app?channel=top-nav" class="lnk-doubanapp">下载豆瓣客户端</a>
+  <div id="top-nav-appintro" class="more-items">
+    <p class="appintro-title">豆瓣</p>
+    <p class="qrcode">扫码直接下载</p>
+    <div class="download">
+      <a href="https://www.douban.com/doubanapp/redirect?channel=top-nav&direct_dl=1&download=iOS">iPhone</a>
+      <span>·</span>
+      <a href="https://www.douban.com/doubanapp/redirect?channel=top-nav&direct_dl=1&download=Android" class="download-android">Android</a>
+    </div>
+    <div id="doubanapp-tip">
+      <a href="https://www.douban.com/doubanapp/app?channel=qipao" class="tip-link">豆瓣 5.0 全新发布</a>
+      <a href="javascript: void 0;" class="tip-close">×</a>
+    </div>
+  </div>
+</div>
+
+    
+
+
+<div class="global-nav-items">
+  <ul>
+    <li class="">
+      <a href="https://www.douban.com" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-main&quot;,&quot;uid&quot;:&quot;0&quot;}">豆瓣</a>
+    </li>
+    <li class="">
+      <a href="https://book.douban.com" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-book&quot;,&quot;uid&quot;:&quot;0&quot;}">读书</a>
+    </li>
+    <li class="on">
+      <a href="https://movie.douban.com"  data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-movie&quot;,&quot;uid&quot;:&quot;0&quot;}">电影</a>
+    </li>
+    <li class="">
+      <a href="https://music.douban.com" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-music&quot;,&quot;uid&quot;:&quot;0&quot;}">音乐</a>
+    </li>
+    <li class="">
+      <a href="https://www.douban.com/location" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-location&quot;,&quot;uid&quot;:&quot;0&quot;}">同城</a>
+    </li>
+    <li class="">
+      <a href="https://www.douban.com/group" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-group&quot;,&quot;uid&quot;:&quot;0&quot;}">小组</a>
+    </li>
+    <li class="">
+      <a href="https://read.douban.com&#47;?dcs=top-nav&amp;dcm=douban" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-read&quot;,&quot;uid&quot;:&quot;0&quot;}">阅读</a>
+    </li>
+    <li class="">
+      <a href="https://douban.fm&#47;?from_=shire_top_nav" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-fm&quot;,&quot;uid&quot;:&quot;0&quot;}">FM</a>
+    </li>
+    <li class="">
+      <a href="https://time.douban.com&#47;?dt_time_source=douban-web_top_nav" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-time&quot;,&quot;uid&quot;:&quot;0&quot;}">时间</a>
+    </li>
+    <li class="">
+      <a href="https://market.douban.com&#47;?utm_campaign=douban_top_nav&amp;utm_source=douban&amp;utm_medium=pc_web" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-market&quot;,&quot;uid&quot;:&quot;0&quot;}">市集</a>
+    </li>
+    <li>
+      <a href="#more" class="bn-more"><span>更多</span></a>
+      <div class="more-items">
+        <table cellpadding="0" cellspacing="0">
+          <tbody>
+            <tr>
+              <td>
+                <a href="https://ypy.douban.com" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-ypy&quot;,&quot;uid&quot;:&quot;0&quot;}">豆瓣摄影</a>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </li>
+  </ul>
+</div>
+
+  </div>
+</div>
+<script>
+  ;window._GLOBAL_NAV = {
+    DOUBAN_URL: "https://www.douban.com",
+    N_NEW_NOTIS: 0,
+    N_NEW_DOUMAIL: 0
+  };
+</script>
+
+
+
+    <script src="//img3.doubanio.com/dae/accounts/resources/321e246/shire/bundle.js" defer="defer"></script>
+
+
+
+
+    
+
+
+
+    <link href="//img3.doubanio.com/dae/accounts/resources/19507ad/movie/bundle.css" rel="stylesheet" type="text/css">
+
+
+
+
+<div id="db-nav-movie" class="nav">
+  <div class="nav-wrap">
+  <div class="nav-primary">
+    <div class="nav-logo">
+      <a href="https:&#47;&#47;movie.douban.com">豆瓣电影</a>
+    </div>
+    <div class="nav-search">
+      <form action="https:&#47;&#47;movie.douban.com/subject_search" method="get">
+        <fieldset>
+          <legend>搜索：</legend>
+          <label for="inp-query">
+          </label>
+          <div class="inp"><input id="inp-query" name="search_text" size="22" maxlength="60" placeholder="搜索电影、电视剧、综艺、影人" value=""></div>
+          <div class="inp-btn"><input type="submit" value="搜索"></div>
+          <input type="hidden" name="cat" value="1002" />
+        </fieldset>
+      </form>
+    </div>
+  </div>
+  </div>
+  <div class="nav-secondary">
+    
+
+<div class="nav-items">
+  <ul>
+    <li    ><a href="https://movie.douban.com/cinema/nowplaying/"
+     >影讯&购票</a>
+    </li>
+    <li    ><a href="https://movie.douban.com/explore"
+     >选电影</a>
+    </li>
+    <li    ><a href="https://movie.douban.com/tv/"
+     >电视剧</a>
+    </li>
+    <li    ><a href="https://movie.douban.com/chart"
+     >排行榜</a>
+    </li>
+    <li    ><a href="https://movie.douban.com/tag/"
+     >分类</a>
+    </li>
+    <li    ><a href="https://movie.douban.com/review/best/"
+     >影评</a>
+    </li>
+    <li    ><a href="https://movie.douban.com/annual/2017?source=navigation"
+     >2017年度榜单</a>
+    </li>
+    <li    ><a href="https://movie.douban.com/standbyme/2017?source=navigation"
+     >2017观影报告</a>
+    </li>
+  </ul>
+</div>
+
+  </div>
+</div>
+
+<script id="suggResult" type="text/x-jquery-tmpl">
+  <li data-link="{{= url}}">
+            <a href="{{= url}}" onclick="moreurl(this, {from:'movie_search_sugg', query:'{{= keyword }}', subject_id:'{{= id}}', i: '{{= index}}', type: '{{= type}}'})">
+            <img src="{{= img}}" width="40" />
+            <p>
+                <em>{{= title}}</em>
+                {{if year}}
+                    <span>{{= year}}</span>
+                {{/if}}
+                {{if sub_title}}
+                    <br /><span>{{= sub_title}}</span>
+                {{/if}}
+                {{if address}}
+                    <br /><span>{{= address}}</span>
+                {{/if}}
+                {{if episode}}
+                    {{if episode=="unknow"}}
+                        <br /><span>集数未知</span>
+                    {{else}}
+                        <br /><span>共{{= episode}}集</span>
+                    {{/if}}
+                {{/if}}
+            </p>
+        </a>
+        </li>
+  </script>
+
+
+
+
+    <script src="//img3.doubanio.com/dae/accounts/resources/19507ad/movie/bundle.js" defer="defer"></script>
+
+
+
+
+
+    
+    <div id="wrapper">
+        
+
+        
+    <div id="content">
+        
+    <h1>爱乐之城 短评</h1>
+
+        <div class="grid-16-8 clearfix">
+            
+            
+            <div class="article">
+                
+    
+
+
+
+<div class="clearfix Comments-hd">
+    <ul class="fleft CommentTabs">
+            <li class="is-active">
+                <span>看过(146576)</span>
+            </li>
+
+            <li>
+                <a href="?status=F">想看(2511)</a>
+            </li>
+    </ul>
+    <div class="fright">
+        <a href="javascript:;" class="comment_btn j a_show_login" name="cbtn-25934014">我来写短评</a>
+    </div>
+</div>
+
+    
+    <div class="title_line clearfix color_gray">
+        <div class="fleft Comments-sortby">
+                <span>热门</span>
+                <a href="?sort=time&status=P">最新</a>
+            <a href="follows_comments?status=P" class="j a_show_login">好友</a>
+        </div>
+    </div>
+
+    <div class="comment-filter">
+        <label>
+            <input type="radio" name="sort" value=""  checked="checked"><span class="filter-name">全部</span><span class="comment-percent"></span>
+        </label>
+        <label>
+            <input type="radio" name="sort" value="h" ><span class="filter-name">好评</span><span class="comment-percent">78%</span>
+        </label>
+        <label>
+            <input type="radio" name="sort" value="m" ><span class="filter-name">一般</span><span class="comment-percent">16%</span>
+        </label>
+        <label>
+            <input type="radio" name="sort" value="l" ><span class="filter-name">差评</span><span class="comment-percent">6%</span>
+        </label>
+    </div>
+
+    <div class="mod-bd" id="comments">
+        
+
+
+
+
+
+
+
+    
+        
+        <div class="comment-item" data-cid="1122927813">
+            
+    
+        <div class="avatar">
+            <a title="桃桃淘电影" href="https://www.douban.com/people/qijiuzhiyue/">
+                <img src="https://img3.doubanio.com/icon/u1032989-50.jpg" class="" />
+            </a>
+        </div>
+    <div class="comment">
+        <h3>
+            <span class="comment-vote">
+                <span class="votes">12444</span>
+                <input value="1122927813" type="hidden"/>
+                <a href="javascript:;" class="j a_show_login" onclick="">有用</a>
+            </span>
+            <span class="comment-info">
+                <a href="https://www.douban.com/people/qijiuzhiyue/" class="">桃桃淘电影</a>
+                    <span>看过</span>
+                    <span class="allstar50 rating" title="力荐"></span>
+                <span class="comment-time " title="2016-12-18 20:05:12">
+                    2016-12-18
+                </span>
+            </span>
+        </h3>
+        <p class=""> 最后两人一吻上，眼泪就完全止不住，最后一直是痛哭。那段蒙太奇展示的就是电影的魔力啊！生活给不了的，电影可以给你，是那么浪漫、那么神奇的情感再现，最佳的电影造梦时刻。而至于理想、爱情、迷影、歌舞片、怀旧等等其他元素和小技巧反而可以放在之后了。最感慨的仍是电影的魅力，做一场电影梦吧！
+        </p>
+    </div>
+
+        </div>
+        
+        <div class="comment-item" data-cid="1121907132">
+            
+    
+        <div class="avatar">
+            <a title="C.W" href="https://www.douban.com/people/ClaudWang/">
+                <img src="https://img1.doubanio.com/icon/u3645196-57.jpg" class="" />
+            </a>
+        </div>
+    <div class="comment">
+        <h3>
+            <span class="comment-vote">
+                <span class="votes">11709</span>
+                <input value="1121907132" type="hidden"/>
+                <a href="javascript:;" class="j a_show_login" onclick="">有用</a>
+            </span>
+            <span class="comment-info">
+                <a href="https://www.douban.com/people/ClaudWang/" class="">C.W</a>
+                    <span>看过</span>
+                    <span class="allstar50 rating" title="力荐"></span>
+                <span class="comment-time " title="2016-12-16 16:48:26">
+                    2016-12-16
+                </span>
+            </span>
+        </h3>
+        <p class=""> 这部电影有多好呢？想象这样一个场景：二十年后的一个傍晚，你开着车(或者车载着你)在回家的路上，突然扬声器里开始放起这首电影里的旋律，听到第一个音符的一瞬间，所有的情绪全都涌上来，就好像二十年前的那个夜晚你第一次听到它们的时候那样。
+        </p>
+    </div>
+
+        </div>
+        
+        <div class="comment-item" data-cid="1086873752">
+            
+    
+        <div class="avatar">
+            <a title="都说了不要关注" href="https://www.douban.com/people/75621811/">
+                <img src="https://img3.doubanio.com/icon/u75621811-4.jpg" class="" />
+            </a>
+        </div>
+    <div class="comment">
+        <h3>
+            <span class="comment-vote">
+                <span class="votes">7334</span>
+                <input value="1086873752" type="hidden"/>
+                <a href="javascript:;" class="j a_show_login" onclick="">有用</a>
+            </span>
+            <span class="comment-info">
+                <a href="https://www.douban.com/people/75621811/" class="">都说了不要关注</a>
+                    <span>看过</span>
+                    <span class="allstar50 rating" title="力荐"></span>
+                <span class="comment-time " title="2016-09-19 12:37:35">
+                    2016-09-19
+                </span>
+            </span>
+        </h3>
+        <p class=""> 我泪流不止 胸口却篝火般温暖 如果回到最初的一刻重新来过 一切会不会都不同 可他们最后看向对方的样子是如此释然又爱意满腹 于是我想这又怎么可能是结束 
+        </p>
+    </div>
+
+        </div>
+        
+        <div class="comment-item" data-cid="1141578485">
+            
+    
+        <div class="avatar">
+            <a title="大瘦瘦" href="https://www.douban.com/people/shoushouan/">
+                <img src="https://img3.doubanio.com/icon/u1804355-2.jpg" class="" />
+            </a>
+        </div>
+    <div class="comment">
+        <h3>
+            <span class="comment-vote">
+                <span class="votes">7396</span>
+                <input value="1141578485" type="hidden"/>
+                <a href="javascript:;" class="j a_show_login" onclick="">有用</a>
+            </span>
+            <span class="comment-info">
+                <a href="https://www.douban.com/people/shoushouan/" class="">大瘦瘦</a>
+                    <span>看过</span>
+                    <span class="allstar50 rating" title="力荐"></span>
+                <span class="comment-time " title="2017-01-24 22:07:19">
+                    2017-01-24
+                </span>
+            </span>
+        </h3>
+        <p class=""> 并不是很适合情人节情侣去看：你在影院流下的泪一定不是为了身边的他或她！
+        </p>
+    </div>
+
+        </div>
+        
+        <div class="comment-item" data-cid="1121314451">
+            
+    
+        <div class="avatar">
+            <a title="Noe" href="https://www.douban.com/people/30732648/">
+                <img src="https://img3.doubanio.com/icon/u30732648-23.jpg" class="" />
+            </a>
+        </div>
+    <div class="comment">
+        <h3>
+            <span class="comment-vote">
+                <span class="votes">6113</span>
+                <input value="1121314451" type="hidden"/>
+                <a href="javascript:;" class="j a_show_login" onclick="">有用</a>
+            </span>
+            <span class="comment-info">
+                <a href="https://www.douban.com/people/30732648/" class="">Noe</a>
+                    <span>看过</span>
+                    <span class="allstar50 rating" title="力荐"></span>
+                <span class="comment-time " title="2016-12-14 23:52:32">
+                    2016-12-14
+                </span>
+            </span>
+        </h3>
+        <p class=""> 看這部片會想起的那個人，一定是忘不了的
+        </p>
+    </div>
+
+        </div>
+        
+        <div class="comment-item" data-cid="1126428334">
+            
+    
+        <div class="avatar">
+            <a title="九只苍蝇撞墙" href="https://www.douban.com/people/huhu1999/">
+                <img src="https://img3.doubanio.com/icon/u1382097-5.jpg" class="" />
+            </a>
+        </div>
+    <div class="comment">
+        <h3>
+            <span class="comment-vote">
+                <span class="votes">4692</span>
+                <input value="1126428334" type="hidden"/>
+                <a href="javascript:;" class="j a_show_login" onclick="">有用</a>
+            </span>
+            <span class="comment-info">
+                <a href="https://www.douban.com/people/huhu1999/" class="">九只苍蝇撞墙</a>
+                    <span>看过</span>
+                    <span class="allstar20 rating" title="较差"></span>
+                <span class="comment-time " title="2016-12-26 11:36:35">
+                    2016-12-26
+                </span>
+            </span>
+        </h3>
+        <p class=""> 传统音乐片用陈词滥调为疯狂而有想象力音乐和舞蹈提供叙事载体，本片正相反，用笨拙舞蹈和跑调歌声来装点乏味到姥姥家的美国梦情结。一场美国人直白低幼无聊无趣头脑简单和思想贫乏对全世界银幕的入侵，高司令贡献了此生最像活动木桩的表演。忍不住怀念起花园叔在艺术家中的演出。
+        </p>
+    </div>
+
+        </div>
+        
+        <div class="comment-item" data-cid="880087651">
+            
+    
+        <div class="avatar">
+            <a title="Madison" href="https://www.douban.com/people/34347136/">
+                <img src="https://img3.doubanio.com/icon/u34347136-6.jpg" class="" />
+            </a>
+        </div>
+    <div class="comment">
+        <h3>
+            <span class="comment-vote">
+                <span class="votes">4361</span>
+                <input value="880087651" type="hidden"/>
+                <a href="javascript:;" class="j a_show_login" onclick="">有用</a>
+            </span>
+            <span class="comment-info">
+                <a href="https://www.douban.com/people/34347136/" class="">Madison</a>
+                    <span>看过</span>
+                    <span class="allstar50 rating" title="力荐"></span>
+                <span class="comment-time " title="2016-08-31 16:56:35">
+                    2016-08-31
+                </span>
+            </span>
+        </h3>
+        <p class=""> 起立鼓掌，泪流不止。这是返璞归真，回归电影最初美好的电影。《爱乐之城》满足了我对电影的一切幻想，美人美景，对传统形式的创新，不落俗套的架构，还有对黄金时代的致敬，更别说那些只听就能落泪的原声。想保存下电影中的每场戏、每一秒、每一帧，只因太过美好。Here&#39;s to the ones who dream.
+        </p>
+    </div>
+
+        </div>
+        
+        <div class="comment-item" data-cid="1120535915">
+            
+    
+        <div class="avatar">
+            <a title="六文" href="https://www.douban.com/people/58348756/">
+                <img src="https://img3.doubanio.com/icon/u58348756-4.jpg" class="" />
+            </a>
+        </div>
+    <div class="comment">
+        <h3>
+            <span class="comment-vote">
+                <span class="votes">4039</span>
+                <input value="1120535915" type="hidden"/>
+                <a href="javascript:;" class="j a_show_login" onclick="">有用</a>
+            </span>
+            <span class="comment-info">
+                <a href="https://www.douban.com/people/58348756/" class="">六文</a>
+                    <span>看过</span>
+                    <span class="allstar30 rating" title="还行"></span>
+                <span class="comment-time " title="2016-12-13 05:48:21">
+                    2016-12-13
+                </span>
+            </span>
+        </h3>
+        <p class=""> 不过是一个很俗套的故事。复古还真的一点都没看出来，把洛杉矶拍得像instagram旅游号，高司令从头到尾一副刚睡醒的样子，和那些经典音乐剧电影比起来缺少太多质感。现在连卖给少女的春药都是那么的廉价。
+        </p>
+    </div>
+
+        </div>
+        
+        <div class="comment-item" data-cid="1124241497">
+            
+    
+        <div class="avatar">
+            <a title="Prufrock的情歌" href="https://www.douban.com/people/54332107/">
+                <img src="https://img3.doubanio.com/icon/u54332107-15.jpg" class="" />
+            </a>
+        </div>
+    <div class="comment">
+        <h3>
+            <span class="comment-vote">
+                <span class="votes">3144</span>
+                <input value="1124241497" type="hidden"/>
+                <a href="javascript:;" class="j a_show_login" onclick="">有用</a>
+            </span>
+            <span class="comment-info">
+                <a href="https://www.douban.com/people/54332107/" class="">Prufrock的情歌</a>
+                    <span>看过</span>
+                    <span class="allstar20 rating" title="较差"></span>
+                <span class="comment-time " title="2016-12-21 16:22:58">
+                    2016-12-21
+                </span>
+            </span>
+        </h3>
+        <p class=""> 真的后悔坐完了全场，平庸冗长，台词糟糕到可怕的电影。看了豆瓣评分之后感觉需要好好写写为什么不喜欢？LA有她的美，她值得更棒的故事。
+        </p>
+    </div>
+
+        </div>
+        
+        <div class="comment-item" data-cid="1134777629">
+            
+    
+        <div class="avatar">
+            <a title="Pint" href="https://www.douban.com/people/1967409/">
+                <img src="https://img3.doubanio.com/icon/u1967409-3.jpg" class="" />
+            </a>
+        </div>
+    <div class="comment">
+        <h3>
+            <span class="comment-vote">
+                <span class="votes">2897</span>
+                <input value="1134777629" type="hidden"/>
+                <a href="javascript:;" class="j a_show_login" onclick="">有用</a>
+            </span>
+            <span class="comment-info">
+                <a href="https://www.douban.com/people/1967409/" class="">Pint</a>
+                    <span>看过</span>
+                    <span class="allstar20 rating" title="较差"></span>
+                <span class="comment-time " title="2017-01-09 21:06:59">
+                    2017-01-09
+                </span>
+            </span>
+        </h3>
+        <p class=""> 真是世界电影全靠吹。从没看过如此舞蹈蜜汁拙劣，演唱蜜汁业余，舞美蜜汁尴尬，剧情蜜汁俗套，逻辑蜜汁感人的歌舞片。别的歌舞片用歌舞带动情节，这倒好，用情节拖累歌舞。如果没有最后十分钟，几乎要给负分。
+        </p>
+    </div>
+
+        </div>
+        
+        <div class="comment-item" data-cid="1122932436">
+            
+    
+        <div class="avatar">
+            <a title="Simple Syncia" href="https://www.douban.com/people/49739667/">
+                <img src="https://img3.doubanio.com/icon/u49739667-6.jpg" class="" />
+            </a>
+        </div>
+    <div class="comment">
+        <h3>
+            <span class="comment-vote">
+                <span class="votes">2835</span>
+                <input value="1122932436" type="hidden"/>
+                <a href="javascript:;" class="j a_show_login" onclick="">有用</a>
+            </span>
+            <span class="comment-info">
+                <a href="https://www.douban.com/people/49739667/" class="">Simple Syncia</a>
+                    <span>看过</span>
+                    <span class="allstar20 rating" title="较差"></span>
+                <span class="comment-time " title="2016-12-18 20:13:58">
+                    2016-12-18
+                </span>
+            </span>
+        </h3>
+        <p class=""> 辣么高的评分，辣么一般的观感。长影评里所谈到的致敬经典和音乐设计，我是云里雾里，没有看过那些经典。音乐在我看来也是一味欢脱为主。 第一次和豆瓣评分脱轨如此之大， 两分给色彩和开场公路舞。
+        </p>
+    </div>
+
+        </div>
+        
+        <div class="comment-item" data-cid="1119306107">
+            
+    
+        <div class="avatar">
+            <a title="同志亦凡人中文站" href="https://www.douban.com/people/3540441/">
+                <img src="https://img3.doubanio.com/icon/u3540441-63.jpg" class="" />
+            </a>
+        </div>
+    <div class="comment">
+        <h3>
+            <span class="comment-vote">
+                <span class="votes">2333</span>
+                <input value="1119306107" type="hidden"/>
+                <a href="javascript:;" class="j a_show_login" onclick="">有用</a>
+            </span>
+            <span class="comment-info">
+                <a href="https://www.douban.com/people/3540441/" class="">同志亦凡人中文站</a>
+                    <span>看过</span>
+                    <span class="allstar50 rating" title="力荐"></span>
+                <span class="comment-time " title="2016-12-10 13:26:38">
+                    2016-12-10
+                </span>
+            </span>
+        </h3>
+        <p class=""> 今年最浪漫唯美的爱情电影，很多段落让人有重温“雨中曲”的感觉。是爱乐之城，也是星光之城，还是梦想和现实缘起缘灭的地方。事实证明有个好的结尾多么重要，它让原本平淡无奇的叙事一步登天！多一星给石头，明年奥斯卡影后坚决站定你～
+        </p>
+    </div>
+
+        </div>
+        
+        <div class="comment-item" data-cid="1131894147">
+            
+    
+        <div class="avatar">
+            <a title="Elegie挽歌" href="https://www.douban.com/people/50927569/">
+                <img src="https://img3.doubanio.com/icon/u50927569-1.jpg" class="" />
+            </a>
+        </div>
+    <div class="comment">
+        <h3>
+            <span class="comment-vote">
+                <span class="votes">2252</span>
+                <input value="1131894147" type="hidden"/>
+                <a href="javascript:;" class="j a_show_login" onclick="">有用</a>
+            </span>
+            <span class="comment-info">
+                <a href="https://www.douban.com/people/50927569/" class="">Elegie挽歌</a>
+                    <span>看过</span>
+                    <span class="allstar20 rating" title="较差"></span>
+                <span class="comment-time " title="2017-01-04 15:49:15">
+                    2017-01-04
+                </span>
+            </span>
+        </h3>
+        <p class=""> 太恶心了。对这样无耻也毫无自知之明地给好莱坞阿谀奉承的片子实在是反感到生气。Damien Chazelle对电影语言的掌控极好，但脑子里的思想实在是太恶心。好莱坞的两大症结都在这：微妙但绝对的性别主义和种族主义，中国和尼加拉瓜都是饭桌上的笑谈之资，而巴黎则是向往的救赎之地。
+        </p>
+    </div>
+
+        </div>
+        
+        <div class="comment-item" data-cid="1123021511">
+            
+    
+        <div class="avatar">
+            <a title="亵渎电影" href="https://www.douban.com/people/zhangzongqian/">
+                <img src="https://img3.doubanio.com/icon/u3995080-211.jpg" class="" />
+            </a>
+        </div>
+    <div class="comment">
+        <h3>
+            <span class="comment-vote">
+                <span class="votes">2187</span>
+                <input value="1123021511" type="hidden"/>
+                <a href="javascript:;" class="j a_show_login" onclick="">有用</a>
+            </span>
+            <span class="comment-info">
+                <a href="https://www.douban.com/people/zhangzongqian/" class="">亵渎电影</a>
+                    <span>看过</span>
+                    <span class="allstar40 rating" title="推荐"></span>
+                <span class="comment-time " title="2016-12-18 22:37:42">
+                    2016-12-18
+                </span>
+            </span>
+        </h3>
+        <p class=""> 年度十佳！最后在情字上找到了一个引人共鸣的点，人生就是一个不断追逐梦想的旅程，在某个时间点上，一个人遇到一个人，他们一起成长，相互鼓励，有美好，有痛苦，有成长，有遗憾，这就是人生。导演非常成熟老道，不仅有野心，也有足够的才华，歌舞元素几乎就是整个歌舞片的发展史，适合迷影爱好者。
+        </p>
+    </div>
+
+        </div>
+        
+        <div class="comment-item" data-cid="1127215098">
+            
+    
+        <div class="avatar">
+            <a title="L&#39;automne" href="https://www.douban.com/people/47974911/">
+                <img src="https://img3.doubanio.com/icon/u47974911-21.jpg" class="" />
+            </a>
+        </div>
+    <div class="comment">
+        <h3>
+            <span class="comment-vote">
+                <span class="votes">2394</span>
+                <input value="1127215098" type="hidden"/>
+                <a href="javascript:;" class="j a_show_login" onclick="">有用</a>
+            </span>
+            <span class="comment-info">
+                <a href="https://www.douban.com/people/47974911/" class="">L&#39;automne</a>
+                    <span>看过</span>
+                    <span class="allstar50 rating" title="力荐"></span>
+                <span class="comment-time " title="2016-12-27 23:26:04">
+                    2016-12-27
+                </span>
+            </span>
+        </h3>
+        <p class=""> 各自梦想实现之时，发现梦想似乎不那么重要了。假如可以重来，我会在第一次见面时吻你，推掉工作来看你的第一次表演，随你搬到巴黎去，巴黎也有好的爵士乐，在把孩子丢给保姆的夜晚，开车带你去吃饭，然后一起走进酒吧，听别人弹奏我曾经做梦都想弹奏的曲子。可惜，现实中没有如果，但电影和想象里有！
+        </p>
+    </div>
+
+        </div>
+        
+        <div class="comment-item" data-cid="1079886303">
+            
+    
+        <div class="avatar">
+            <a title="咯咯精" href="https://www.douban.com/people/gegejing/">
+                <img src="https://img3.doubanio.com/icon/u41608208-13.jpg" class="" />
+            </a>
+        </div>
+    <div class="comment">
+        <h3>
+            <span class="comment-vote">
+                <span class="votes">2151</span>
+                <input value="1079886303" type="hidden"/>
+                <a href="javascript:;" class="j a_show_login" onclick="">有用</a>
+            </span>
+            <span class="comment-info">
+                <a href="https://www.douban.com/people/gegejing/" class="">咯咯精</a>
+                    <span>看过</span>
+                    <span class="allstar50 rating" title="力荐"></span>
+                <span class="comment-time " title="2016-09-01 00:28:00">
+                    2016-09-01
+                </span>
+            </span>
+        </h3>
+        <p class=""> 打低分的人没有爱过，像我这样的浪子看不哭。但是我为美人折腰。我赞同导演：爱是可以成为往事的。
+        </p>
+    </div>
+
+        </div>
+        
+        <div class="comment-item" data-cid="1126406736">
+            
+    
+        <div class="avatar">
+            <a title="Mo" href="https://www.douban.com/people/2401213/">
+                <img src="https://img3.doubanio.com/icon/u2401213-5.jpg" class="" />
+            </a>
+        </div>
+    <div class="comment">
+        <h3>
+            <span class="comment-vote">
+                <span class="votes">1722</span>
+                <input value="1126406736" type="hidden"/>
+                <a href="javascript:;" class="j a_show_login" onclick="">有用</a>
+            </span>
+            <span class="comment-info">
+                <a href="https://www.douban.com/people/2401213/" class="">Mo</a>
+                    <span>看过</span>
+                    <span class="allstar30 rating" title="还行"></span>
+                <span class="comment-time " title="2016-12-26 10:47:13">
+                    2016-12-26
+                </span>
+            </span>
+        </h3>
+        <p class=""> 前一个半小时都在出戏 从5 years later之后才有点感觉 觉得想找布达佩斯大饭店的画风失败 想找伍迪艾伦的文艺失败 想找宝莱坞电影一言不合就歌舞失败 唯独成功是最后的平行世界桥段 算是能赚观众一点同理心
+        </p>
+    </div>
+
+        </div>
+        
+        <div class="comment-item" data-cid="1126669010">
+            
+    
+        <div class="avatar">
+            <a title="一百年  不許變" href="https://www.douban.com/people/edison.xyz/">
+                <img src="https://img3.doubanio.com/icon/u2142368-65.jpg" class="" />
+            </a>
+        </div>
+    <div class="comment">
+        <h3>
+            <span class="comment-vote">
+                <span class="votes">1427</span>
+                <input value="1126669010" type="hidden"/>
+                <a href="javascript:;" class="j a_show_login" onclick="">有用</a>
+            </span>
+            <span class="comment-info">
+                <a href="https://www.douban.com/people/edison.xyz/" class="">一百年  不許變</a>
+                    <span>看过</span>
+                    <span class="allstar20 rating" title="较差"></span>
+                <span class="comment-time " title="2016-12-26 21:06:23">
+                    2016-12-26
+                </span>
+            </span>
+        </h3>
+        <p class=""> 谁要看什么都会的俊男美女实现人生梦想 我还不够惨吗
+        </p>
+    </div>
+
+        </div>
+        
+        <div class="comment-item" data-cid="1110097934">
+            
+    
+        <div class="avatar">
+            <a title="白日美人_S" href="https://www.douban.com/people/stella_zhou/">
+                <img src="https://img3.doubanio.com/icon/u49379876-223.jpg" class="" />
+            </a>
+        </div>
+    <div class="comment">
+        <h3>
+            <span class="comment-vote">
+                <span class="votes">1555</span>
+                <input value="1110097934" type="hidden"/>
+                <a href="javascript:;" class="j a_show_login" onclick="">有用</a>
+            </span>
+            <span class="comment-info">
+                <a href="https://www.douban.com/people/stella_zhou/" class="">白日美人_S</a>
+                    <span>看过</span>
+                    <span class="allstar50 rating" title="力荐"></span>
+                <span class="comment-time " title="2016-11-17 13:43:35">
+                    2016-11-17
+                </span>
+            </span>
+        </h3>
+        <p class=""> 预告片里说得没错，已经没有人在拍这样的电影了。即使不是年代戏，手法和色彩运用也极具年代感。满足了外人对这座城的一切幻想，又为身在洛杉矶的人拍出了这座城会让你遍体鳞伤的事实。他是真的很爱洛杉矶。 在洛杉矶看La La Land真的是太奇妙的体验。很特殊的感情。
+        </p>
+    </div>
+
+        </div>
+        
+        <div class="comment-item" data-cid="1126446157">
+            
+    
+        <div class="avatar">
+            <a title="黄柑柑" href="https://www.douban.com/people/hyming/">
+                <img src="https://img3.doubanio.com/icon/u3600695-16.jpg" class="" />
+            </a>
+        </div>
+    <div class="comment">
+        <h3>
+            <span class="comment-vote">
+                <span class="votes">1323</span>
+                <input value="1126446157" type="hidden"/>
+                <a href="javascript:;" class="j a_show_login" onclick="">有用</a>
+            </span>
+            <span class="comment-info">
+                <a href="https://www.douban.com/people/hyming/" class="">黄柑柑</a>
+                    <span>看过</span>
+                    <span class="allstar20 rating" title="较差"></span>
+                <span class="comment-time " title="2016-12-26 12:20:41">
+                    2016-12-26
+                </span>
+            </span>
+        </h3>
+        <p class=""> ＃用光了九叔的25cents买票＃演员肢体僵硬唱跳不好台词dream什么followgiveup的可以再写的烂一点讲太多太直白了没任何美感，所有人的价值观看起来都非黑即白天文台里两个人升到星星的画面真是好难看啊五毛钱的特效剧情cliche不要紧但是其中的细腻情感全被抹灭了反观法国同样cliche的艺术家是有多细腻
+        </p>
+    </div>
+
+        </div>
+
+
+
+
+    <div class="comments-footer-tips">
+        * 影片上映之前的、与影片无关的或包含人身攻击等内容的短评都将有可能被折叠，且评分不计入豆瓣评分。<br/>
+        * 短评的排序是将豆瓣成员的投票加权平均计算后的结果，通过算法的调校，更好地反映短评内容的价值。<br/>
+    </div>
+
+
+        <div id="paginator" class="center">
+                <span class="first"><< 首页</span>
+                <span class="prev">< 前页</span>
+                <a href="?start=20&amp;limit=20&amp;sort=new_score&amp;status=P&amp;percent_type=" data-page="" class="next">后页 ></a>
+        </div>
+
+
+
+
+
+        
+        
+    </div>
+
+            </div>
+            <div class="aside">
+                
+
+    
+<p class="pl2">&gt; <a href="https://movie.douban.com/subject/25934014/">去 爱乐之城 的页面</a></p>
+
+    <div class="indent">
+        
+
+
+
+
+
+
+
+
+
+<div class="movie-summary">
+        <div class="movie-pic"><a  href="https://movie.douban.com/subject/25934014/" ><img alt="爱乐之城 La La Land" title="爱乐之城 La La Land" src="https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2425658570.jpg" rel="v:image" width="100px"></a></div>
+    <span class="attrs">
+        
+            
+        <p>
+            <span class="pl">导演:</span>
+                <a  href="https://movie.douban.com/celebrity/1014996/">达米恩·查泽雷</a>
+        </p>
+
+        
+            
+        <p>
+            <span class="pl">主演:</span>
+                <a  href="https://movie.douban.com/celebrity/1012531/">瑞恩·高斯林</a> / <a  href="https://movie.douban.com/celebrity/1040506/">艾玛·斯通</a> / <a  href="https://movie.douban.com/celebrity/1014178/">约翰·传奇</a> / <a  href="https://movie.douban.com/celebrity/1040580/">罗丝玛丽·德薇特</a> / <a  href="https://movie.douban.com/celebrity/1315253/">芬·维特洛克</a> / <a  href="https://movie.douban.com/celebrity/1325899/">杰西卡·罗德</a> / <a  href="https://movie.douban.com/celebrity/1347723/">水野索诺娅</a> / <a  href="https://movie.douban.com/celebrity/1339675/">考莉·埃尔南德斯</a> / <a  href="https://movie.douban.com/celebrity/1147911/">J·K·西蒙斯</a> / <a  href="https://movie.douban.com/celebrity/1049663/">汤姆·艾弗瑞特·斯科特</a> / <a  href="https://movie.douban.com/celebrity/1320506/">米根·费伊</a> / <a  href="https://movie.douban.com/celebrity/1346113/">达蒙·冈普顿</a> / <a  href="https://movie.douban.com/celebrity/1032466/">贾森·福克斯</a> / <a  href="https://movie.douban.com/celebrity/1252378/">乔什·平茨</a> / <a  href="https://movie.douban.com/celebrity/1237561/">艾米·科恩</a> / <a  href="https://movie.douban.com/celebrity/1344851/">特里·沃尔特斯</a> / <a  href="https://movie.douban.com/celebrity/1365679/">汤姆·谢尔顿</a> / <a  href="https://movie.douban.com/celebrity/1328316/">辛达·亚当斯</a> / <a  href="https://movie.douban.com/celebrity/1365680/">克劳丁·克劳迪奥</a> / <a  href="https://movie.douban.com/celebrity/1365681/">D·A·瓦拉赫</a> / <a  href="https://movie.douban.com/celebrity/1120945/">特雷弗·里斯奥尔</a> / <a  href="https://movie.douban.com/celebrity/1368728/">奥莉维亚·汉密尔顿</a> / <a  href="https://movie.douban.com/celebrity/1368729/">安娜·查泽雷</a> / <a  href="https://movie.douban.com/celebrity/1276426/">马里乌斯·代·弗里斯</a> / <a  href="https://movie.douban.com/celebrity/1368730/">妮科尔·库隆</a> / <a  href="https://movie.douban.com/celebrity/1027989/">迈尔斯·安德森</a> / <a  href="https://movie.douban.com/celebrity/1308171/">约翰·辛德曼</a> / <a  href="https://movie.douban.com/celebrity/1123746/">瓦拉里·雷·米勒</a> / <a  href="https://movie.douban.com/celebrity/1150551/">基夫·范登·霍伊维尔</a> / <a  href="https://movie.douban.com/celebrity/1119424/">佐伊·霍尔</a> / <a  href="https://movie.douban.com/celebrity/1127761/">登普西·帕皮恩</a> / <a  href="https://movie.douban.com/celebrity/1348657/">辛德拉·车</a>
+        </p>
+
+        
+            
+        <p>
+            <span class="pl">类型:</span>
+                剧情, 爱情, 歌舞
+        </p>
+
+        
+            
+        <p>
+            <span class="pl">地区:</span>
+                美国
+        </p>
+
+        
+            
+        <p>
+            <span class="pl">片长:</span>
+                128分钟
+        </p>
+
+        
+            
+        <p>
+            <span class="pl">上映:</span>
+                2016-08-31(威尼斯电影节), 2016-12-25(美国), 2017-02-14(中国大陆)
+        </p>
+
+        <a  class="trail_link" data-trailer-id="211786" href="https://movie.douban.com/trailer/211786/#content" >预告片</a>
+    </span>
+</div>
+
+
+
+    </div>
+    <div id="dale_movie_subject_comments_bottom_right"></div>
+    <a href="https://help.douban.com/blackroom">> 豆瓣违规公示</a>
+
+            </div>
+            <div class="extra">
+                
+            </div>
+        </div>
+    </div>
+
+        
+    <div id="footer">
+            <div class="footer-extra"></div>
+        
+<span id="icp" class="fleft gray-link">
+    &copy; 2005－2018 douban.com, all rights reserved 北京豆网科技有限公司
+</span>
+
+<a href="https://www.douban.com/hnypt/variformcyst.py" style="display: none;"></a>
+
+<span class="fright">
+    <a href="https://www.douban.com/about">关于豆瓣</a>
+    · <a href="https://www.douban.com/jobs">在豆瓣工作</a>
+    · <a href="https://www.douban.com/about?topic=contactus">联系我们</a>
+    · <a href="https://www.douban.com/about?policy=disclaimer">免责声明</a>
+    
+    · <a href="https://help.douban.com/?app=movie" target="_blank">帮助中心</a>
+    · <a href="https://www.douban.com/doubanapp/">移动应用</a>
+    · <a href="https://www.douban.com/partner/">豆瓣广告</a>
+</span>
+
+    </div>
+
+    </div>
+    <script type="text/javascript">
+            $(function(){$("body").delegate(".btn-unfold","click",function(e){e.preventDefault();var n=$(e.target),t=n.parent(".fold-hd");t.slideUp().next().slideDown()})});
+        </script><script type="text/javascript">
+
+        $.each($("#comments:not('.sns-comments') .comment-item ".concat('.comment')), function(i, el){
+            if ($(el).find(".comment-report").length==0){
+              $(el).append('<div class="comment-report"><a rel="nofollow" href="javascript:void(0)">举报</a></div>');
+            }
+        });
+
+        $('#comments').delegate('.js-irrelevant', 'click', function(){
+            if($(this).data('clicked')) return;
+            $(this).data('clicked', true);
+            var $this = $(this),
+                commentId = $this.closest('.comment-item').data('cid');
+            $.post_withck('/j/comment/' + commentId + '/irrelevant', function(r) {
+                r = JSON.parse(r)
+                if (r.r === 0) {
+                    $this.addClass('done');
+                } else if (r.r === 1) {
+                    alert(r.msg);
+                }
+            })
+        });
+
+        $('#comments').delegate('.a_vote_comment', 'click', function(){
+            if($(this).data('clicked')) return;
+            $(this).data('clicked', true);
+            var v = $(this).prev().prev(), id = $(this).prev().val();
+            $.postJSON_withck('/j/comment/vote', {id: id}, function(r){
+                if (r.r === 0 && r.count) {
+                    v.text(r.count);
+                } else if (r.r === 1) {
+                    alert(r.msg);
+                }
+            })
+        });
+
+        window.percent_type = "";
+        window.page_start = 0;
+        window.page_limit = 20;
+        window.page_status = "P";
+        window.page_sort = "new_score";
+        window.lastCommentsXhr = null;
+
+        $(".comment-filter input[type='radio']").click(function(e){
+            if($(this).val() === window.percent_type) return;
+            if($('.comment-filter').data('doing')) {
+                e.preventDefault();
+                return;
+            };
+
+            window.percent_type = $(this).val();
+            window.page_start = 0;
+            updateUrl();
+
+            $('.comment-filter').data('doing', true);
+            $("#comments").html('<div class="comment-loading">载入中...</div>');
+            $('#comments .comment-item').remove();
+
+            updateComments();
+        });
+
+        $('#comments').delegate('#paginator a', 'click', function(e){
+            e.preventDefault();
+
+            if($(this).text().indexOf('首') !== -1){
+                window.page_start = 0;
+            }else if($(this).text().indexOf('前') !== -1){
+                window.page_start -= window.page_limit;
+            }else{
+                window.page_start += window.page_limit;
+            }
+
+            window.page_start = window.page_start < 0 ? 0 : window.page_start;
+
+            updateUrl();
+
+            $('.comment-filter').data('doing');
+            $("#comments").html('<div class="comment-loading">载入中...</div>');
+
+            updateComments();
+        });
+
+        function updateComments(){
+            window.lastCommentsXhr && window.lastCommentsXhr.abort();
+            var url = '/subject/25934014/comments' + createUrlSearch();
+            window.lastCommentsXhr = $.get(url, function(res){
+                if(res.r === 0){
+                    $("#comments").html(res.html);
+                    $('.comment-filter').removeData('doing');
+                    $('.comment-filter').get(0).scrollIntoViewIfNeeded();
+                }
+            })
+        }
+
+        function createPageState(){
+            return {
+                percent_type: window.percent_type,
+                start: window.page_start,
+                limit: window.page_limit,
+                sort: window.page_sort,
+                status: window.page_status
+            }
+        }
+
+        function createUrlSearch(){
+            return '?start=' + window.page_start + '&limit=' + window.page_limit + '&sort=' + window.page_sort + '&status=' + window.page_status + '&percent_type=' + window.percent_type;
+        }
+
+        function updateUrl(){
+            window.history && window.history.pushState(createPageState(), null, createUrlSearch());
+        }
+
+        window.onpopstate = function(e){
+            var pageState = e.state;
+            window.percent_type = pageState.percent_type;
+            window.page_start = pageState.start;
+            window.page_limit = pageState.limit;
+            window.page_sort = pageState.sort;
+            window.page_status = pageState.status;
+            $("#comments").html('<div class="comment-loading">载入中...</div>');
+            $('.comment-filter input[value="' + window.percent_type + '"]').get(0).checked = true;
+            updateComments();
+        }
+    </script>
+        
+        
+    <link rel="stylesheet" type="text/css" href="https://img3.doubanio.com/f/shire/8377b9498330a2e6f056d863987cc7a37eb4d486/css/ui/dialog.css" />
+    <link rel="stylesheet" type="text/css" href="https://img3.doubanio.com/f/movie/1d829b8605b9e81435b127cbf3d16563aaa51838/css/movie/mod/reg_login_pop.css" />
+    <script type="text/javascript" src="https://img3.doubanio.com/f/shire/77323ae72a612bba8b65f845491513ff3329b1bb/js/do.js" data-cfg-autoload="false"></script>
+    <script type="text/javascript" src="https://img3.doubanio.com/f/shire/4ea3216519a6183c7bcd4f7d1a6d4fd57ce1a244/js/ui/dialog.js"></script>
+    <script type="text/javascript">
+        var HTTPS_DB='https://www.douban.com';
+var account_pop={open:function(o,e){e?referrer="?referrer="+encodeURIComponent(e):referrer="?referrer="+window.location.href;var n="",i="",t=382;"reg"===o?(n="用户注册",i="https://accounts.douban.com/popup/login?source=movie#popup_register",t=480):"login"===o&&(n="用户登录",i="https://accounts.douban.com/popup/login?source=movie");var r=document.location.protocol+"//"+document.location.hostname,a=dui.Dialog({width:478,title:n,height:t,cls:"account_pop",isHideTitle:!0,modal:!0,content:"<iframe scrolling='no' frameborder='0' width='478' height='"+t+"' src='"+i+"' name='"+r+"'></iframe>"},!0),c=a.node;if(c.undelegate(),c.delegate(".dui-dialog-close","click",function(){var o=$("body");o.find("#login_msk").hide(),o.find(".account_pop").remove()}),$(window).width()<478){var u="";"reg"===o?u=HTTPS_DB+"/accounts/register"+referrer:"login"===o&&(u=HTTPS_DB+"/accounts/login"+referrer),window.location.href=u}else a.open();$(window).bind("message",function(o){"https://accounts.douban.com"===o.originalEvent.origin&&(c.find("iframe").css("height",o.originalEvent.data),c.height(o.originalEvent.data),a.update())})}};Douban&&Douban.init_show_login&&(Douban.init_show_login=function(o){var e=$(o);e.click(function(){var o=e.data("ref")||"";return account_pop.open("login",o),!1})}),Do(function(){$("body").delegate(".pop_register","click",function(o){o.preventDefault();var e=$(this).data("ref")||"";return account_pop.open("reg",e),!1}),$("body").delegate(".pop_login","click",function(o){o.preventDefault();var e=$(this).data("ref")||"";return account_pop.open("login",e),!1})});
+    </script>
+
+    
+    
+
+
+
+
+    
+<script type="text/javascript">
+    (function (global) {
+        var newNode = global.document.createElement('script'),
+            existingNode = global.document.getElementsByTagName('script')[0],
+            adSource = '//erebor.douban.com/',
+            userId = '',
+            browserId = 'uBnL73y2lN0',
+            criteria = '3:/subject/25934014/comments',
+            preview = '',
+            debug = false,
+            adSlots = ['dale_movie_subject_comments_bottom_right'];
+
+        global.DoubanAdRequest = {src: adSource, uid: userId, bid: browserId, crtr: criteria, prv: preview, debug: debug};
+        global.DoubanAdSlots = (global.DoubanAdSlots || []).concat(adSlots);
+
+        newNode.setAttribute('type', 'text/javascript');
+        newNode.setAttribute('src', 'https://img3.doubanio.com/f/adjs/f886512b31842ce18a9450be3e80f90c23f25260/ad.release.js');
+        newNode.setAttribute('async', true);
+        existingNode.parentNode.insertBefore(newNode, existingNode);
+    })(this);
+</script>
+
+
+
+
+
+
+
+
+
+
+    
+
+    
+  
+
+
+
+
+
+
+
+
+
+<script type="text/javascript">
+var _paq = _paq || [];
+_paq.push(['trackPageView']);
+_paq.push(['enableLinkTracking']);
+(function() {
+    var p=(('https:' == document.location.protocol) ? 'https' : 'http'), u=p+'://fundin.douban.com/';
+    _paq.push(['setTrackerUrl', u+'piwik']);
+    _paq.push(['setSiteId', '100001']);
+    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+    g.type='text/javascript';
+    g.defer=true;
+    g.async=true;
+    g.src=p+'://img3.doubanio.com/dae/fundin/piwik.js';
+    s.parentNode.insertBefore(g,s);
+})();
+</script>
+
+<script type="text/javascript">
+var setMethodWithNs = function(namespace) {
+  var ns = namespace ? namespace + '.' : ''
+    , fn = function(string) {
+        if(!ns) {return string}
+        return ns + string
+      }
+  return fn
+}
+
+var gaWithNamespace = function(fn, namespace) {
+  var method = setMethodWithNs(namespace)
+  fn.call(this, method)
+}
+
+var _gaq = _gaq || []
+  , accounts = [
+      { id: 'UA-7019765-1', namespace: 'douban' }
+    , { id: 'UA-7019765-19', namespace: '' }
+    ]
+  , gaInit = function(account) {
+      gaWithNamespace(function(method) {
+        gaInitFn.call(this, method, account)
+      }, account.namespace)
+    }
+  , gaInitFn = function(method, account) {
+      _gaq.push([method('_setAccount'), account.id]);
+      _gaq.push([method('_setSampleRate'), '5']);
+
+      
+  _gaq.push([method('_addOrganic'), 'google', 'q'])
+  _gaq.push([method('_addOrganic'), 'baidu', 'wd'])
+  _gaq.push([method('_addOrganic'), 'soso', 'w'])
+  _gaq.push([method('_addOrganic'), 'youdao', 'q'])
+  _gaq.push([method('_addOrganic'), 'so.360.cn', 'q'])
+  _gaq.push([method('_addOrganic'), 'sogou', 'query'])
+  if (account.namespace) {
+    _gaq.push([method('_addIgnoredOrganic'), '豆瓣'])
+    _gaq.push([method('_addIgnoredOrganic'), 'douban'])
+    _gaq.push([method('_addIgnoredOrganic'), '豆瓣网'])
+    _gaq.push([method('_addIgnoredOrganic'), 'www.douban.com'])
+  }
+
+      if (account.namespace === 'douban') {
+        _gaq.push([method('_setDomainName'), '.douban.com'])
+      }
+
+        _gaq.push([method('_setCustomVar'), 1, 'responsive_view_mode', 'desktop', 3])
+
+        _gaq.push([method('_setCustomVar'), 2, 'login_status', '0', 2]);
+
+      _gaq.push([method('_trackPageview')])
+    }
+
+for(var i = 0, l = accounts.length; i < l; i++) {
+  var account = accounts[i]
+  gaInit(account)
+}
+
+
+;(function() {
+    var ga = document.createElement('script');
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    ga.setAttribute('async', 'true');
+    document.documentElement.firstChild.appendChild(ga);
+})()
+</script>
+
+
+
+
+
+
+
+
+      
+    
+
+    <!-- sindar17c-docker-->
+
+  <script>_SPLITTEST=''</script>
+</body>
+
+</html>
+
+
