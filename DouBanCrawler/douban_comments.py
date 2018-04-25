@@ -10,7 +10,8 @@ import requests
 import argparse	
 ap = argparse.ArgumentParser()
 ap.add_argument('-u','--url',help="url path of the website")
-args = vars(ap.parse_args())
+args = ap.parse_args()
+
 def getHtmlText(url='http://www.baidu.com'):
 	try:
 		r = requests.get(url, timeout=20)
@@ -21,7 +22,7 @@ def getHtmlText(url='http://www.baidu.com'):
 	except:
 		return "Exception encounter!"
 if __name__ == '__main__':
-	if args['url']:
-		getHtmlText(url=args['url'])
+	if args.url:
+		getHtmlText(url=args.url)
 	else:
 		getHtmlText()

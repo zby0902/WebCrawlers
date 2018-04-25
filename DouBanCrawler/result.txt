@@ -1,2 +1,247 @@
 <!DOCTYPE html>
-<!--STATUS OK--><html> <head><meta http-equiv=content-type content=text/html;charset=utf-8><meta http-equiv=X-UA-Compatible content=IE=Edge><meta content=always name=referrer><link rel=stylesheet type=text/css href=http://s1.bdstatic.com/r/www/cache/bdorz/baidu.min.css><title>百度一下，你就知道</title></head> <body link=#0000cc> <div id=wrapper> <div id=head> <div class=head_wrapper> <div class=s_form> <div class=s_form_wrapper> <div id=lg> <img hidefocus=true src=//www.baidu.com/img/bd_logo1.png width=270 height=129> </div> <form id=form name=f action=//www.baidu.com/s class=fm> <input type=hidden name=bdorz_come value=1> <input type=hidden name=ie value=utf-8> <input type=hidden name=f value=8> <input type=hidden name=rsv_bp value=1> <input type=hidden name=rsv_idx value=1> <input type=hidden name=tn value=baidu><span class="bg s_ipt_wr"><input id=kw name=wd class=s_ipt value maxlength=255 autocomplete=off autofocus></span><span class="bg s_btn_wr"><input type=submit id=su value=百度一下 class="bg s_btn"></span> </form> </div> </div> <div id=u1> <a href=http://news.baidu.com name=tj_trnews class=mnav>新闻</a> <a href=http://www.hao123.com name=tj_trhao123 class=mnav>hao123</a> <a href=http://map.baidu.com name=tj_trmap class=mnav>地图</a> <a href=http://v.baidu.com name=tj_trvideo class=mnav>视频</a> <a href=http://tieba.baidu.com name=tj_trtieba class=mnav>贴吧</a> <noscript> <a href=http://www.baidu.com/bdorz/login.gif?login&amp;tpl=mn&amp;u=http%3A%2F%2Fwww.baidu.com%2f%3fbdorz_come%3d1 name=tj_login class=lb>登录</a> </noscript> <script>document.write('<a href="http://www.baidu.com/bdorz/login.gif?login&tpl=mn&u='+ encodeURIComponent(window.location.href+ (window.location.search === "" ? "?" : "&")+ "bdorz_come=1")+ '" name="tj_login" class="lb">登录</a>');</script> <a href=//www.baidu.com/more/ name=tj_briicon class=bri style="display: block;">更多产品</a> </div> </div> </div> <div id=ftCon> <div id=ftConw> <p id=lh> <a href=http://home.baidu.com>关于百度</a> <a href=http://ir.baidu.com>About Baidu</a> </p> <p id=cp>&copy;2017&nbsp;Baidu&nbsp;<a href=http://www.baidu.com/duty/>使用百度前必读</a>&nbsp; <a href=http://jianyi.baidu.com/ class=cp-feedback>意见反馈</a>&nbsp;京ICP证030173号&nbsp; <img src=//www.baidu.com/img/gs.gif> </p> </div> </div> </div> </body> </html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="profile" href="http://gmpg.org/xfn/11">
+
+<title>Roger的计算机漫漫入门路</title>
+<link rel='dns-prefetch' href='//s2.wp.com' />
+<link rel='dns-prefetch' href='//s1.wp.com' />
+<link rel='dns-prefetch' href='//s0.wp.com' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel="alternate" type="application/rss+xml" title="Roger的计算机漫漫入门路 &raquo; Feed" href="https://zbyroger0128.wordpress.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Roger的计算机漫漫入门路 &raquo; 评论Feed" href="https://zbyroger0128.wordpress.com/comments/feed/" />
+	<script type="text/javascript">
+		/* <![CDATA[ */
+		function addLoadEvent(func) {
+			var oldonload = window.onload;
+			if (typeof window.onload != 'function') {
+				window.onload = func;
+			} else {
+				window.onload = function () {
+					oldonload();
+					func();
+				}
+			}
+		}
+		/* ]]> */
+	</script>
+			<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s0.wp.com\/wp-content\/mu-plugins\/wpcom-smileys\/twemoji\/2\/72x72\/","ext":".png","svgUrl":"https:\/\/s0.wp.com\/wp-content\/mu-plugins\/wpcom-smileys\/twemoji\/2\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/s1.wp.com\/wp-includes\/js\/wp-emoji-release.min.js?m=1516999477h&ver=4.9.5"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55357,56692,8205,9792,65039],[55357,56692,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='all-css-0-1' href='https://s1.wp.com/_static/??-eJyFj90KgzAMhV9oXVDYvBp7llqDVhstJuJ8+7UWB/uhuykn4XzNObB6ZaZRcBSgRXm3tHZkWL2ZSDFZh9vHdDbMJ/iNOTsgQ4/itRnUPuXsZpox7MlriQ7Cxmp0SMGWw1bbtCgB50MrwUcWIX89DkXZhXjZZKlxXfsZmVV4yS6kpAvZ/jSimD5V3wO+bRJqYZzEBppf4uvPdAr8UkOjZw0sm8PoutOtuJRFWVTVpeifYQ+nXw==?cssminify=yes' type='text/css' media='all' />
+<link rel='stylesheet' id='dara-fonts-css'  href='https://fonts.googleapis.com/css?family=Source+Sans+Pro%3A300%2C300italic%2C400%2C400italic%2C600%7CYrsa%3A300%2C400%2C700&#038;subset=latin%2Clatin-ext' type='text/css' media='all' />
+<link rel='stylesheet' id='all-css-2-1' href='https://s1.wp.com/_static/??-eJx9jcEOAiEMRH9IbFAT9WD8FpatWAMtoWyIfy/GC8a4t3mZeRlo2XjhilwhLSbHJRArBGQs1Is/cetVNzC49Y4JFfIyweyKA2IPWp8RTcte0s9++Go0B6wKKp5cNJ+rEdbkgGKieFdJ+AvMLToqa2rBKUroMUBfDfiWruliD+fj7mTt3j5eeKNt8Q==?cssminify=yes' type='text/css' media='all' />
+<link rel='stylesheet' id='print-css-3-1' href='https://s2.wp.com/wp-content/mu-plugins/global-print/global-print.css?m=1465851035h&cssminify=yes' type='text/css' media='print' />
+<link rel='stylesheet' id='all-css-4-1' href='https://s1.wp.com/_static/??-eJx9i0EKAjEMRS9kDYUZGRfiWTKltpE0KU0Grz+4EBHF1X8f3oNHD0nFszi0LXTeCokBJieVFcebjsnsAL/1rubhxkgDrOIgKa/9V5kmQg6sRT/PV+Q1t2xQJyisK/JTuLZLnOPpvMxxWu47xX5JvA==?cssminify=yes' type='text/css' media='all' />
+<script type='text/javascript' src='https://s0.wp.com/_static/??-eJyFztEKwjAMBdAfsquTiXsRv6XWOFKXtDbphn69HeiDMBQCgdzDJXZOBtmP5QJiQ517gfx4rybIxv4ChnDITqEh5A/2kRVYF0vxjCOYIpDdUG+16BpXXIqiBCIVraTfLyFPCPNfFkCT8zeTQfC5tJ7o2Hb9Yde3+24bXjRNW9I='></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://zbyroger0128.wordpress.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://s1.wp.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress.com" />
+<link rel="canonical" href="https://zbyroger0128.wordpress.com/" />
+<link rel='shortlink' href='https://wp.me/P9N3Ic-5' />
+<link rel="alternate" type="application/json+oembed" href="https://public-api.wordpress.com/oembed/?format=json&amp;url=https%3A%2F%2Fzbyroger0128.wordpress.com%2F&amp;for=wpcom-auto-discovery" /><link rel="alternate" type="application/xml+oembed" href="https://public-api.wordpress.com/oembed/?format=xml&amp;url=https%3A%2F%2Fzbyroger0128.wordpress.com%2F&amp;for=wpcom-auto-discovery" />
+<!-- Jetpack Open Graph Tags -->
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Roger的计算机漫漫入门路" />
+<meta property="og:url" content="https://zbyroger0128.wordpress.com/" />
+<meta property="og:site_name" content="Roger的计算机漫漫入门路" />
+<meta property="og:image" content="https://zbyroger0128.files.wordpress.com/2018/03/skyline-buildings-new-york-skyscrapers.jpg?w=1200" />
+<meta property="og:image:width" content="1200" />
+<meta property="og:image:height" content="566" />
+<meta property="og:locale" content="zh_CN" />
+<meta name="twitter:site" content="@wordpressdotcom" />
+<meta name="twitter:text:title" content="Home" />
+<meta name="twitter:image:src" content="https://zbyroger0128.files.wordpress.com/2018/03/skyline-buildings-new-york-skyscrapers.jpg?w=640" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:description" content="访问文章了解更多信息。" />
+<meta property="fb:app_id" content="249643311490" />
+<meta property="article:publisher" content="https://www.facebook.com/WordPresscom" />
+<link rel="shortcut icon" type="image/x-icon" href="https://s1.wp.com/i/favicon.ico" sizes="16x16 24x24 32x32 48x48" />
+<link rel="icon" type="image/x-icon" href="https://s1.wp.com/i/favicon.ico" sizes="16x16 24x24 32x32 48x48" />
+<link rel="apple-touch-icon-precomposed" href="https://s2.wp.com/i/webclip.png" />
+<link rel="search" type="application/opensearchdescription+xml" href="https://zbyroger0128.wordpress.com/osd.xml" title="Roger的计算机漫漫入门路" />
+<link rel="search" type="application/opensearchdescription+xml" href="https://s1.wp.com/opensearch.xml" title="WordPress.com" />
+<meta name="application-name" content="Roger的计算机漫漫入门路" /><meta name="msapplication-window" content="width=device-width;height=device-height" /><meta name="msapplication-task" content="name=订阅;action-uri=https://zbyroger0128.wordpress.com/feed/;icon-uri=https://s1.wp.com/i/favicon.ico" /><meta name="msapplication-task" content="name=注册免费博客;action-uri=http://wordpress.com/signup/;icon-uri=https://s1.wp.com/i/favicon.ico" /><meta name="msapplication-task" content="name=WordPress.com 支持;action-uri=http://support.wordpress.com/;icon-uri=https://s1.wp.com/i/favicon.ico" /><meta name="msapplication-task" content="name=WordPress.com 论坛;action-uri=http://forums.wordpress.com/;icon-uri=https://s1.wp.com/i/favicon.ico" /><meta name="description" content="Welcome to your new site! You can edit this page by cli&hellip;" />
+<style type="text/css" id="syntaxhighlighteranchor"></style>
+</head>
+
+<body class="home page-template-default page page-id-5 mp6 customizer-styles-applied not-multi-author display-header-text comments-closed highlander-enabled highlander-light">
+<div id="page" class="site">
+	<a class="skip-link screen-reader-text" href="#content">Skip to content</a>
+
+	<header id="masthead" class="site-header" role="banner">
+
+		
+				<div class="site-branding">
+										<p class="site-title"><a href="https://zbyroger0128.wordpress.com/" rel="home">Roger的计算机漫漫入门路</a></p>
+			
+					</div><!-- .site-branding -->
+
+		<nav id="site-navigation" class="main-navigation" role="navigation">
+	<button class="menu-toggle" aria-controls="top-menu" aria-expanded="false">选单</button>
+	<div id="top-menu" class="menu"><ul>
+<li class="page_item page-item-5 current_page_item"><a href="https://zbyroger0128.wordpress.com/">Home</a></li>
+<li class="page_item page-item-2"><a href="https://zbyroger0128.wordpress.com/%e5%85%b3%e4%ba%8e/">关于</a></li>
+<li class="page_item page-item-3"><a href="https://zbyroger0128.wordpress.com/%e8%81%94%e7%b3%bb%e4%bf%a1%e6%81%af/">联系信息</a></li>
+<li class="page_item page-item-6"><a href="https://zbyroger0128.wordpress.com/blog/">Blog</a></li>
+</ul></div>
+	</nav>
+
+	</header>
+
+	
+	<div class="hero">
+		<div class="entry-thumbnail">
+			<img width="1180" height="435" src="https://zbyroger0128.files.wordpress.com/2018/03/skyline-buildings-new-york-skyscrapers.jpg?w=1180&amp;h=435&amp;crop=1" class="attachment-dara-page-thumbnail size-dara-page-thumbnail wp-post-image" alt="" srcset="https://zbyroger0128.files.wordpress.com/2018/03/skyline-buildings-new-york-skyscrapers.jpg?w=1180&amp;h=435&amp;crop=1 1180w, https://zbyroger0128.files.wordpress.com/2018/03/skyline-buildings-new-york-skyscrapers.jpg?w=150&amp;h=55&amp;crop=1 150w, https://zbyroger0128.files.wordpress.com/2018/03/skyline-buildings-new-york-skyscrapers.jpg?w=300&amp;h=111&amp;crop=1 300w, https://zbyroger0128.files.wordpress.com/2018/03/skyline-buildings-new-york-skyscrapers.jpg?w=768&amp;h=283&amp;crop=1 768w, https://zbyroger0128.files.wordpress.com/2018/03/skyline-buildings-new-york-skyscrapers.jpg?w=1024&amp;h=378&amp;crop=1 1024w" sizes="(max-width: 1180px) 100vw, 1180px" data-attachment-id="20" data-permalink="https://zbyroger0128.wordpress.com/home/placeholder-image-2/" data-orig-file="https://zbyroger0128.files.wordpress.com/2018/03/skyline-buildings-new-york-skyscrapers.jpg" data-orig-size="1600,754" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;14&quot;,&quot;credit&quot;:&quot;Philipp Henzler&quot;,&quot;camera&quot;:&quot;Canon EOS 550D&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1331252089&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;11&quot;,&quot;iso&quot;:&quot;400&quot;,&quot;shutter_speed&quot;:&quot;0.01&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="Placeholder Image" data-image-description="" data-medium-file="https://zbyroger0128.files.wordpress.com/2018/03/skyline-buildings-new-york-skyscrapers.jpg?w=300" data-large-file="https://zbyroger0128.files.wordpress.com/2018/03/skyline-buildings-new-york-skyscrapers.jpg?w=1024" />		</div>
+	</div><!-- .hero -->
+
+	<div id="content" class="site-content">
+
+	<div id="primary" class="content-area front-page-content-area">
+					
+<article id="post-5" class="post-5 page type-page status-publish has-post-thumbnail hentry with-featured-image">
+	<header class="entry-header">
+		<h1 class="entry-title">Home</h1>	</header>
+		<div class="entry-content">
+			<p>Welcome to your new site!  You can edit this page by clicking on the Edit link.  For more information about customizing your site check out <a href="http://learn.wordpress.com/">http://learn.wordpress.com/</a></p>
+		</div>
+		<footer class="entry-footer">
+					</footer>
+</article><!-- #post-## -->
+
+						</div><!-- #primary -->
+
+	
+	<div id="quaternary" class="featured-page-area">
+		<div class="featured-page-wrapper clear">
+
+																								
+		</div><!-- .featured-page-wrapper -->
+	</div><!-- #quaternary -->
+
+
+	
+	
+
+	</div>
+
+	
+	<footer id="colophon" class="site-footer" role="contentinfo">
+				<div class="site-info">
+	<a href="https://wordpress.com/?ref=footer_blog">在WordPress.com的博客.</a>
+	
+	</div><!-- .site-info -->	</footer>
+</div>
+<!--  -->
+<script type='text/javascript' src='//0.gravatar.com/js/gprofiles.js?ver=201817y'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var WPGroHo = {"my_hash":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://s1.wp.com/wp-content/mu-plugins/gravatar-hovercards/wpgroho.js?m=1380573781h'></script>
+
+	<script>
+		//initialize and attach hovercards to all gravatars
+		jQuery( document ).ready( function( $ ) {
+
+			if (typeof Gravatar === "undefined"){
+				return;
+			}
+
+			if ( typeof Gravatar.init !== "function" ) {
+				return;
+			}			
+
+			Gravatar.profile_cb = function( hash, id ) {
+				WPGroHo.syncProfileData( hash, id );
+			};
+			Gravatar.my_hash = WPGroHo.my_hash;
+			Gravatar.init( 'body', '#wp-admin-bar-my-account' );
+		});
+	</script>
+
+		<div style="display:none">
+	</div>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var comment_like_text = {"loading":"\u6b63\u5728\u52a0\u8f7d\u2026\u2026"};
+/* ]]> */
+</script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var actionbardata = {"siteID":"144679368","siteName":"Roger\u7684\u8ba1\u7b97\u673a\u6f2b\u6f2b\u5165\u95e8\u8def","siteURL":"http:\/\/zbyroger0128.wordpress.com","icon":"<img alt='' src='https:\/\/s2.wp.com\/i\/logo\/wpcom-gray-white.png' class='avatar avatar-50' height='50' width='50' \/>","canManageOptions":"","canCustomizeSite":"","isFollowing":"","themeSlug":"pub\/dara","signupURL":"https:\/\/wordpress.com\/start\/","loginURL":"https:\/\/zbyroger0128.wordpress.com\/wp-login.php?redirect_to=https%3A%2F%2Fzbyroger0128.wordpress.com%2F","themeURL":"https:\/\/wordpress.com\/theme\/dara\/","xhrURL":"https:\/\/zbyroger0128.wordpress.com\/wp-admin\/admin-ajax.php","nonce":"c2e80a3df7","isSingular":"1","isFolded":"","isLoggedIn":"","isMobile":"","subscribeNonce":"<input type=\"hidden\" id=\"_wpnonce\" name=\"_wpnonce\" value=\"f7a3c3355a\" \/>","referer":"https:\/\/zbyroger0128.wordpress.com\/","canFollow":"","feedID":"80994223","statusMessage":"","customizeLink":"https:\/\/zbyroger0128.wordpress.com\/wp-admin\/customize.php?url=https%3A%2F%2Fzbyroger0128.wordpress.com%2F","postID":"5","shortlink":"https:\/\/wp.me\/P9N3Ic-5","canEditPost":"","editLink":"https:\/\/wordpress.com\/page\/zbyroger0128.wordpress.com\/5","statsLink":"https:\/\/wordpress.com\/stats\/post\/5\/zbyroger0128.wordpress.com","i18n":{"view":"\u67e5\u770b\u7f51\u7ad9","follow":"\u5173\u6ce8","following":"\u5173\u6ce8\u4e2d","edit":"\u7f16\u8f91","login":"\u767b\u5f55","signup":"\u6ce8\u518c","customize":"\u81ea\u5b9a\u4e49","report":"\u4e3e\u62a5\u6b64\u5185\u5bb9","themeInfo":"\u83b7\u53d6\u4e3b\u9898: Dara","shortlink":"\u590d\u5236\u77ed\u94fe\u63a5","copied":"\u5df2\u590d\u5236","followedText":"\u6b64\u65f6\uff0c\u8be5\u7ad9\u70b9\u4e2d\u7684\u65b0\u6587\u7ae0\u5c06\u663e\u793a\u5728\u60a8\u7684<a href=\"https:\/\/wordpress.com\/\">\u9605\u8bfb\u5668<\/a>\u4e2d","foldBar":"\u6536\u8d77\u6b64\u680f","unfoldBar":"\u5c55\u5f00\u6b64\u680f","editSubs":"\u7ba1\u7406\u8ba2\u9605","viewReader":"\u5728\u9605\u8bfb\u5668\u4e2d\u67e5\u770b\u201c\u7ad9\u70b9\u201d","viewReadPost":"View post in Reader","subscribe":"\u4e3a\u6211\u6ce8\u518c","enterEmail":"\u8f93\u5165\u60a8\u7684\u7535\u5b50\u90ae\u4ef6\u5730\u5740","followers":"","alreadyUser":"\u5df2\u6709 WordPress.com \u5e10\u6237\uff1f<a href=\"https:\/\/zbyroger0128.wordpress.com\/wp-login.php?redirect_to=https%3A%2F%2Fzbyroger0128.wordpress.com%2F\">\u7acb\u5373\u767b\u5f55\u3002<\/a>","stats":"\u7edf\u8ba1"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://s2.wp.com/_static/??-eJyVkFkOwjAMRC9EMKv4QpzFTVxw2yzEScvxSUFCBaQK/qzxvLHGMASlvUvkEjQChnrWFG7LRhYwWdmsQpfP7AQ6bkngminTBZ3pKM6Ytbe2SOoJNSNdgQwc6B/oTfgE04VssYVcgcGIgCKUHpjDns+Y2LvfGWk5lDuuVbXXWVTNc79AY9mpCiNYlESxTMr3FCObEv/S/kxIEXX71XMK6bHUCL2m4j7Z43q/Wa92291h09wBHTiwtg=='></script>
+<script type="text/javascript">
+// <![CDATA[
+(function() {
+try{
+  if ( window.external &&'msIsSiteMode' in window.external) {
+    if (window.external.msIsSiteMode()) {
+      var jl = document.createElement('script');
+      jl.type='text/javascript';
+      jl.async=true;
+      jl.src='/wp-content/plugins/ie-sitemode/custom-jumplist.php';
+      var s = document.getElementsByTagName('script')[0];
+      s.parentNode.insertBefore(jl, s);
+    }
+  }
+}catch(e){}
+})();
+// ]]>
+</script>	<script type="text/javascript">
+	var skimlinks_pub_id = "725X584219"
+	var skimlinks_sitename = "zbyroger0128.wordpress.com";
+	</script>
+	<script type="text/javascript" defer src="https://s.skimresources.com/js/725X1342.skimlinks.js"></script><script src="//stats.wp.com/w.js?56" type="text/javascript" async defer></script>
+<script type="text/javascript">
+_tkq = window._tkq || [];
+_stq = window._stq || [];
+_tkq.push(['storeContext', {'blog_id':'144679368','blog_tz':'0','user_lang':'zh-cn','blog_lang':'zh-cn','user_id':'0'}]);
+_stq.push(['view', {'blog':'144679368','v':'wpcom','tz':'0','user_id':'0','post':'5','subd':'zbyroger0128'}]);
+_stq.push(['extra', {'crypt':'UE40eW5QN0p8M2Y/RE1mJVY3bm9aR3VCbS9mWm1pRyZuJS1LX1t5QmRXZzE3RC9rQWZHK1FjbDltdWdaMVFFZTcxUGVHLWR0WTJoMGFtWUxNRVR8aSZFfHJNcEw3RFg3N2MzUj1rUmI3TnFRR3VoRkZUKz9jTGU1N0ZUK2tLaXR5RCxOfHRjYXZjZUl3N3JRaGZsa2dqeSUlMEdQYTd2c2pKWnw5alRhd1UrUk53YksyLEtmVEhDUDkyQVVRVW84Jl9POTVbdjF+LFdkREYyeStheUlWOGpXb2huMVNMW3lDdGdlcmZmdFRabStyNEc='}]);
+_stq.push([ 'clickTrackerInit', '144679368', '5' ]);
+	</script>
+<noscript><img src="https://pixel.wp.com/b.gif?v=noscript" style="height:0px;width:0px;overflow:hidden" alt="" /></noscript>
+<script>
+if ( 'object' === typeof wpcom_mobile_user_agent_info ) {
+
+	wpcom_mobile_user_agent_info.init();
+	var mobileStatsQueryString = "";
+	
+	if( false !== wpcom_mobile_user_agent_info.matchedPlatformName )
+		mobileStatsQueryString += "&x_" + 'mobile_platforms' + '=' + wpcom_mobile_user_agent_info.matchedPlatformName;
+	
+	if( false !== wpcom_mobile_user_agent_info.matchedUserAgentName )
+		mobileStatsQueryString += "&x_" + 'mobile_devices' + '=' + wpcom_mobile_user_agent_info.matchedUserAgentName;
+	
+	if( wpcom_mobile_user_agent_info.isIPad() )
+		mobileStatsQueryString += "&x_" + 'ipad_views' + '=' + 'views';
+
+	if( "" != mobileStatsQueryString ) {
+		new Image().src = document.location.protocol + '//pixel.wp.com/g.gif?v=wpcom-no-pv' + mobileStatsQueryString + '&baba=' + Math.random();
+	}
+	
+}
+</script>
+</body>
+</html>
